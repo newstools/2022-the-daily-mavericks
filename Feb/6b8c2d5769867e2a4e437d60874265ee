@@ -1,0 +1,1197 @@
+When Judge Raymond Zondo appeared before the Judicial Service Commission earlier this month, he said he was under no illusions: legal challenges to the final State Capture report from those implicated within it were likely to come in thick and fast. But even before the third and last instalment of the report has been released, events in court this week hint at a separate legal problem: the difficulties of converting the Zondo Commission evidence into successful State Capture prosecutions. The Bloemfontein High Court is currently hearing applications from four of those charged with Free State fraud and corruption — including Ace Magashule — to have the cases dropped, in large part because they are argued to rely too heavily on Zondo Commission evidence. The crux of the applications is the Zondo Commission regulation which stipulates: “A self-incriminating answer or a statement given by a witness before the Commission shall not be admissible as evidence against that person in any criminal proceedings brought against that person instituted in any court.” This regulation, as State prosecutor Nazeer Cassim reminded the court on Monday, was brought in by President Cyril Ramaphosa to amend the original vision of the commission preferred by former president Jacob Zuma. Zuma’s concept of the commission, Cassim said, was “akin to a TRC” [Truth and Reconciliation Commission], in which those cooperating would effectively be granted full amnesty from prosecution: “They will tell their story and be forgiven.” Ramaphosa’s amendment was designed to try to ensure that those responsible for State Capture could still be held criminally responsible, while not being so draconian as to dissuade anyone from testifying before the commission. Advocate Laurence Hodes SC, representing corruption-accused businessman Edwin Sodi, pointed out to the court that this regulation had yet to be tested by the Constitutional Court. Many will be watching the Bloemfontein High Court this week with keen interest to see how Judge Soma Naidoo deals with an issue that is likely to become key to the defence of those prosecuted for State Capture corruption. The State has argued that the matter is one that should be addressed by the trial court during the criminal proceedings for the asbestos case, rather than through this civil litigation before the trial is even close to starting. But lawyers for the four applicants contend that a ruling on it is demanded now in the interests of justice, to avoid the prospect of a lengthy and expensive trial. Accused number 13 in the asbestos case, Magashule, is the individual who has most to lose from a long trial, although this has not yet been aired in court: Magashule’s lawyer is only scheduled to give arguments on Tuesday. Due to the ANC rule stipulating that those accused of corruption must step aside from leadership positions until a court formally clears them of those charges, Magashule needs either an acquittal or charges dropped ahead of the ANC’s electoral conference in December 2022, where he hopes to be re-elected back to the party’s top six as part of the Radical Economic Transformation (RET) faction. As things stand, Magashule faces what could be exceedingly lengthy court proceedings, given that there are 16 people in the dock. A further delay to the start of the trial was announced on Monday when the National Prosecuting Authority indicated that it would seek the extradition of Magashule’s former personal assistant Moroadi Cholota from the US to testify. The pre-trial hearing — separate from the current applications — was adjourned to June. This is not good news for Magashule’s ANC electoral prospects, although there have been reports that the suspended ANC secretary-general may still attempt to stand as a candidate in December even if the charges against him are unresolved. In recent days Magashule has been reported to be making the rounds of influential churches for prayer meetings as part of what appears to be a campaign to restore his tarnished image. On Monday, however, the spotlight was on the three other corruption defendants bringing an application to have their charges dropped alongside Magashule: Nthimotse Mokhesi, the former Free State head of Human Settlements; businessman Edwin Sodi; and Thabane Zulu, the former director-general in the Free State Department of Human Settlements. Prosecutor Cassim reminded the court of the “enormity” of what the case was about: a corruption scandal that saw R255-million in public money blown on irregular contracts to audit the use of asbestos in Free State housing projects. “That is serious money,” Cassim said, describing it as part of the “wholesale plundering of the country”. Advocate Christo Meiring, appearing for Mokhesi, introduced the argument which both subsequent lawyers for the applicants would further ventilate: that the State’s case relies on evidence given to the Zondo Commission by his client, and which is, in other words, self-incriminating. If the State was not relying on Zondo Commission testimony, Meiring asked, why was Mokhesi only arrested shortly after his second appearance before the commission? The same point was made by Sodi’s lawyer, Hodes, who said his client was arrested the very next day after Sodi’s testimony to the commission. Referring to Sodi’s cooperation with the Zondo Commission, Hodes asked: “You’ve played ball, you’ve come forward, you’ve given documents, you’ve given bank statements, you’ve given everything, and then you’re arrested — how is that fair?” Meiring accused the State of being unable to prosecute Mokhesi without self-incriminating Zondo Commission evidence, while Hodes suggested that a further unjust element of Sodi’s prosecution was the fact that the State would not disclose what elements of its investigation were independent of the Zondo Commission’s hearings. Cassim argued back on behalf of the State that Mokhesi’s case was “not difficult to prove” without self-incriminating evidence, saying one could simply consult the relevant bank records. When it came to Sodi, Cassim’s argument was even simpler. “On Sodi’s version [before the Zondo Commission] he did nothing wrong,” the State prosecutor said, suggesting that by definition Sodi’s testimony could therefore not be considered self-incriminating. Later in the day, Thabane Zulu’s lawyer — advocate Solly Maakane — introduced another element to the charge-dropping application, on which Magashule’s legal team also relies. Maakane said that the crux of charges against Zulu revolve around the contravention of Precca, the Prevention and Combating of Corrupt Activities Act, a piece of legislation that stipulates that corruption-accused officials must be given a chance to respond to allegations against them. The State’s failure to do so in Zulu’s case, contends Maakane, invalidates the Precca charges. Cassim argued in response that the State was justified in not giving Zulu forewarning of the Precca charges given the possibility that Zulu might abscond or in some other way attempt to obstruct justice. He also pointed out that Zulu faces other charges of fraud and corruption beyond the Precca charges. On Tuesday, lawyers for the final applicant — Magashule — will be heard in argument. DM  /*!
+* CleanSlate
+*   github.com/premasagar/cleanslate
+*
+*//*
+    An extreme CSS reset stylesheet, for normalising the styling of a container element and its children.
+
+    by Premasagar Rose
+        dharmafly.com
+
+    license
+        opensource.org/licenses/mit-license.php
+
+    **
+
+    v0.10.1
+
+*/
+
+/* == BLANKET RESET RULES == */
+
+/* HTML 4.01 */
+.cleanslate h1, .cleanslate h2, .cleanslate h3, .cleanslate h4, .cleanslate h5, .cleanslate h6, .cleanslate p, .cleanslate td, .cleanslate dl, .cleanslate tr, .cleanslate dt, .cleanslate ol, .cleanslate form, .cleanslate select, .cleanslate option, .cleanslate pre, .cleanslate div, .cleanslate table,  .cleanslate th, .cleanslate tbody, .cleanslate tfoot, .cleanslate caption, .cleanslate thead, .cleanslate ul, .cleanslate li, .cleanslate address, .cleanslate blockquote, .cleanslate dd, .cleanslate fieldset, .cleanslate li, .cleanslate NO-iframe, .cleanslate strong, .cleanslate legend, .cleanslate em, .cleanslate summary, .cleanslate cite, .cleanslate span, .cleanslate input, .cleanslate sup, .cleanslate label, .cleanslate dfn, .cleanslate object, .cleanslate big, .cleanslate q, .cleanslate samp, .cleanslate acronym, .cleanslate small, .cleanslate img, .cleanslate strike, .cleanslate code, .cleanslate sub, .cleanslate ins, .cleanslate textarea, .cleanslate button, .cleanslate var, .cleanslate a, .cleanslate abbr, .cleanslate applet, .cleanslate del, .cleanslate kbd, .cleanslate tt, .cleanslate b, .cleanslate i, .cleanslate hr,
+
+/* HTML5 - Sept 2013 taken from MDN https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list */
+.cleanslate article, .cleanslate aside, .cleanslate figure, .cleanslate figcaption, .cleanslate footer, .cleanslate header, .cleanslate menu, .cleanslate nav, .cleanslate section, .cleanslate time, .cleanslate mark, .cleanslate audio, .cleanslate video, .cleanslate abbr, .cleanslate address, .cleanslate area, .cleanslate blockquote, .cleanslate canvas, .cleanslate caption, .cleanslate cite, .cleanslate code, .cleanslate colgroup, .cleanslate col, .cleanslate datalist, .cleanslate fieldset, .cleanslate main, .cleanslate map, .cleanslate meta, .cleanslate optgroup, .cleanslate output, .cleanslate progress {
+    background-attachment:scroll !important;
+    background-color:transparent !important;
+    background-image:none !important; /* This rule affects the use of pngfix JavaScript http://dillerdesign.com/experiment/DD_BelatedPNG for IE6, which is used to force the browser to recognise alpha-transparent PNGs files that replace the IE6 lack of PNG transparency. (The rule overrides the VML image that is used to replace the given CSS background-image). If you don't know what that means, then you probably haven't used the pngfix script, and this comment may be ignored :) */
+    background-position:0 0 !important;
+    background-repeat:repeat !important;
+    border-color:black !important;
+    border-color:currentColor !important; /* `border-color` should match font color. Modern browsers (incl. IE9) allow the use of "currentColor" to match the current font 'color' value <http://www.w3.org/TR/css3-color/#currentcolor>. For older browsers, a default of 'black' is given before this rule. Guideline to support older browsers: if you haven't already declared a border-color for an element, be sure to do so, e.g. when you first declare the border-width. */
+    border-radius:0 !important;
+    border-style:none !important;
+    border-width:medium !important;
+    bottom:auto !important;
+    clear:none !important;
+    clip:auto !important;
+    color:inherit !important;
+    counter-increment:none !important;
+    counter-reset:none !important;
+    cursor:auto !important;
+    direction:inherit !important;
+    display:inline !important;
+    float:none !important;
+    font-family: inherit !important; /* As with other inherit values, this needs to be set on the root container element */
+    font-size: inherit !important;
+    font-style:inherit !important;
+    font-variant:normal !important;
+    font-weight:normal !important;
+    height:auto !important;
+    left:auto !important;
+    letter-spacing:normal !important;
+    line-height:inherit !important;
+    list-style-type: inherit !important; /* Could set list-style-type to none */
+    list-style-position: outside !important;
+    list-style-image: none !important;
+    margin:0 !important;
+    max-height:none !important;
+    max-width:none !important;
+    min-height:0 !important;
+    min-width:0 !important;
+    opacity:1;
+    outline:invert none medium !important;
+    overflow:visible !important;
+    padding:0 !important;
+    position:static !important;
+    quotes: "" "" !important;
+    right:auto !important;
+    table-layout:auto !important;
+    text-align:inherit !important;
+    text-decoration:inherit !important;
+    text-indent:0 !important;
+    text-transform:none !important;
+    top:auto !important;
+    unicode-bidi:normal !important;
+    vertical-align:baseline !important;
+    visibility:inherit !important;
+    white-space:normal !important;
+    width:auto !important;
+    word-spacing:normal !important;
+    z-index:auto !important;
+
+    /* CSS3 */
+    /* Including all prefixes according to http://caniuse.com/ */
+    /* CSS Animations don't cascade, so don't require resetting */
+    -webkit-background-origin: padding-box !important;
+            background-origin: padding-box !important;
+    -webkit-background-clip: border-box !important;
+            background-clip: border-box !important;
+    -webkit-background-size: auto !important;
+       -moz-background-size: auto !important;
+            background-size: auto !important;
+    -webkit-border-image: none !important;
+       -moz-border-image: none !important;
+         -o-border-image: none !important;
+            border-image: none !important;
+    -webkit-border-radius:0 !important;
+       -moz-border-radius:0 !important;
+            border-radius: 0 !important;
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+    -webkit-box-sizing: content-box !important;
+       -moz-box-sizing: content-box !important;
+            box-sizing: content-box !important;
+    -webkit-column-count: auto !important;
+       -moz-column-count: auto !important;
+            column-count: auto !important;
+    -webkit-column-gap: normal !important;
+       -moz-column-gap: normal !important;
+            column-gap: normal !important;
+    -webkit-column-rule: medium none black !important;
+       -moz-column-rule: medium none black !important;
+            column-rule: medium none black !important;
+    -webkit-column-span: 1 !important;
+       -moz-column-span: 1 !important; /* doesn't exist yet but probably will */
+            column-span: 1 !important;
+    -webkit-column-width: auto !important;
+       -moz-column-width: auto !important;
+            column-width: auto !important;
+    font-feature-settings: normal !important;
+    overflow-x: visible !important;
+    overflow-y: visible !important;
+    -webkit-hyphens: manual !important;
+       -moz-hyphens: manual !important;
+            hyphens: manual !important;
+    -webkit-perspective: none !important;
+       -moz-perspective: none !important;
+        -ms-perspective: none !important;
+         -o-perspective: none !important;
+            perspective: none !important;
+    -webkit-perspective-origin: 50% 50% !important;
+       -moz-perspective-origin: 50% 50% !important;
+        -ms-perspective-origin: 50% 50% !important;
+         -o-perspective-origin: 50% 50% !important;
+            perspective-origin: 50% 50% !important;
+    -webkit-backface-visibility: visible !important;
+       -moz-backface-visibility: visible !important;
+        -ms-backface-visibility: visible !important;
+         -o-backface-visibility: visible !important;
+            backface-visibility: visible !important;
+    text-shadow: none !important;
+    -webkit-transition: all 0s ease 0s !important;
+            transition: all 0s ease 0s !important;
+    -webkit-transform: none !important;
+       -moz-transform: none !important;
+        -ms-transform: none !important;
+         -o-transform: none !important;
+            transform: none !important;
+    -webkit-transform-origin: 50% 50% !important;
+       -moz-transform-origin: 50% 50% !important;
+        -ms-transform-origin: 50% 50% !important;
+         -o-transform-origin: 50% 50% !important;
+            transform-origin: 50% 50% !important;
+    -webkit-transform-style: flat !important;
+       -moz-transform-style: flat !important;
+        -ms-transform-style: flat !important;
+         -o-transform-style: flat !important;
+            transform-style: flat !important;
+    word-break: normal !important;
+}
+
+/* == BLOCK-LEVEL == */
+/* Actually, some of these should be inline-block and other values, but block works fine (TODO: rigorously verify this) */
+/* HTML 4.01 */
+.cleanslate, .cleanslate h3, .cleanslate h5, .cleanslate p, .cleanslate h1, .cleanslate dl, .cleanslate dt, .cleanslate h6, .cleanslate ol, .cleanslate form, .cleanslate option, .cleanslate pre, .cleanslate div, .cleanslate h2, .cleanslate caption, .cleanslate h4, .cleanslate ul, .cleanslate address, .cleanslate blockquote, .cleanslate dd, .cleanslate fieldset, .cleanslate hr,
+
+/* HTML5 new elements */
+.cleanslate article, .cleanslate dialog, .cleanslate figure, .cleanslate footer, .cleanslate header, .cleanslate hgroup, .cleanslate menu, .cleanslate nav, .cleanslate section, .cleanslate audio, .cleanslate video, .cleanslate address, .cleanslate blockquote, .cleanslate colgroup, .cleanslate main, .cleanslate progress, .cleanslate summary {
+    display:block !important;
+}
+.cleanslate h1, .cleanslate h2, .cleanslate h3, .cleanslate h4, .cleanslate h5, .cleanslate h6 {
+    font-weight: bold !important;
+}
+.cleanslate h1 {
+    font-size: 2em !important;
+    padding: .67em 0 !important;
+}
+.cleanslate h2 {
+    font-size: 1.5em !important;
+    padding: .83em 0 !important;
+}
+.cleanslate h3 {
+    font-size: 1.17em !important;
+    padding: .83em 0 !important;
+}
+.cleanslate h4 {
+    font-size: 1em !important;
+}
+.cleanslate h5 {
+    font-size: .83em !important;
+}
+.cleanslate p {
+    margin: 0 !important;
+}
+.cleanslate p+p {
+    margin-top: 1em !important;
+}
+.cleanslate table {
+    display: table !important;
+}
+.cleanslate thead {
+    display: table-header-group !important;
+}
+.cleanslate tbody {
+    display: table-row-group !important;
+}
+.cleanslate tfoot {
+    display: table-footer-group !important;
+}
+.cleanslate tr {
+    display: table-row !important;
+}
+.cleanslate th, .cleanslate td {
+    display: table-cell !important;
+    padding: 2px !important;
+}
+
+/* == SPECIFIC ELEMENTS == */
+/* Some of these are browser defaults; some are just useful resets */
+.cleanslate ol, .cleanslate ul {
+    margin: 1em 0 !important;
+}
+.cleanslate ul li, .cleanslate ul ul li, .cleanslate ul ul ul li, .cleanslate ol li, .cleanslate ol ol li, .cleanslate ol ol ol li, .cleanslate ul ol ol li, .cleanslate ul ul ol li, .cleanslate ol ul ul li, .cleanslate ol ol ul li {
+    list-style-position: inside !important;
+    margin-top: .08em !important;
+}
+.cleanslate ol ol, .cleanslate ol ol ol, .cleanslate ul ul, .cleanslate ul ul ul, .cleanslate ol ul, .cleanslate ol ul ul, .cleanslate ol ol ul, .cleanslate ul ol, .cleanslate ul ol ol, .cleanslate ul ul ol {
+    padding-left: 40px !important;
+    margin: 0 !important;
+}
+/* helper for general navigation */
+.cleanslate nav ul, .cleanslate nav ol {
+    list-style-type:none !important;
+
+}
+.cleanslate ul, .cleanslate menu {
+    list-style-type:disc !important;
+}
+.cleanslate ol {
+    list-style-type:decimal !important;
+}
+.cleanslate ol ul, .cleanslate ul ul, .cleanslate menu ul, .cleanslate ol menu, .cleanslate ul menu, .cleanslate menu menu {
+    list-style-type:circle !important;
+}
+.cleanslate ol ol ul, .cleanslate ol ul ul, .cleanslate ol menu ul, .cleanslate ol ol menu, .cleanslate ol ul menu, .cleanslate ol menu menu, .cleanslate ul ol ul, .cleanslate ul ul ul, .cleanslate ul menu ul, .cleanslate ul ol menu, .cleanslate ul ul menu, .cleanslate ul menu menu, .cleanslate menu ol ul, .cleanslate menu ul ul, .cleanslate menu menu ul, .cleanslate menu ol menu, .cleanslate menu ul menu, .cleanslate menu menu menu {
+    list-style-type:square !important;
+}
+.cleanslate li {
+    display:list-item !important;
+    /* Fixes IE7 issue with positioning of nested bullets */
+    min-height:auto !important;
+    min-width:auto !important;
+    padding-left: 20px !important; /* replace -webkit-padding-start: 40px; */
+}
+.cleanslate strong {
+    font-weight:bold !important;
+}
+.cleanslate em {
+    font-style:italic !important;
+}
+.cleanslate kbd, .cleanslate samp, .cleanslate code, .cleanslate pre {
+  font-family:monospace !important;
+}
+.cleanslate a {
+    color: blue !important;
+    text-decoration: underline !important;
+}
+.cleanslate a:visited {
+    color: #529 !important;
+}
+.cleanslate a, .cleanslate a *, .cleanslate input[type=submit], .cleanslate input[type=button], .cleanslate input[type=radio], .cleanslate input[type=checkbox], .cleanslate select, .cleanslate button {
+    cursor:pointer !important;
+}
+.cleanslate button, .cleanslate input[type=submit] {
+    text-align: center !important;
+    padding: 2px 6px 3px !important;
+    border-radius: 4px !important;
+    text-decoration: none !important;
+    font-family: arial, helvetica, sans-serif !important;
+    font-size: small !important;
+    background: white !important;
+    -webkit-appearance: push-button !important;
+    color: buttontext !important;
+    border: 1px #a6a6a6 solid !important;
+    background: lightgrey !important; /* Old browsers */
+    background: rgb(255,255,255); /* Old browsers */
+}
+.cleanslate button:active, .cleanslate input[type=submit]:active, .cleanslate input[type=button]:active, .cleanslate button:active {
+background: rgb(59,103,158) !important; /* Old browsers */
+border-color: #5259b0 !important;
+}
+.cleanslate button {
+    padding: 1px 6px 2px 6px !important;
+    margin-right: 5px !important;
+}
+.cleanslate input[type=hidden] {
+    display:none !important;
+}
+/* restore form defaults */
+.cleanslate textarea {
+    -webkit-appearance: textarea !important;
+    background: white !important;
+    padding: 0 !important;
+    margin-left: 0 !important;
+    word-wrap: break-word !important;
+    white-space: pre-wrap !important;
+    font-size: 11px !important;
+    font-family: arial, helvetica, sans-serif !important;
+    line-height: 13px !important;
+    resize: both !important;
+}
+.cleanslate select, .cleanslate textarea, .cleanslate input {
+    border:1px solid #ccc !important;
+}
+.cleanslate select {
+    font-size: 11px !important;
+    font-family: helvetica, arial, sans-serif !important;
+    display: inline-block;
+}
+.cleanslate textarea:focus, .cleanslate input:focus {
+    outline: auto 5px -webkit-focus-ring-color !important;
+}
+
+.cleanslate textarea::placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea::-webkit-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea::-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea:-ms-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea:-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate input::placeholder { color: #a9a9a9 !important; }
+.cleanslate input::-webkit-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate input::-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate input:-ms-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate input:-moz-placeholder { color: #a9a9a9 !important; }
+
+.cleanslate input[type=text] {
+    background: white !important;
+    padding: 1px !important;
+    font-family: initial !important;
+    font-size: small !important;
+}
+.cleanslate input[type=checkbox], .cleanslate input[type=radio] {
+    border: 1px #2b2b2b solid !important;
+    border-radius: 4px !important;
+}
+.cleanslate input[type=checkbox] {
+    -webkit-appearance: checkbox !important;
+    -moz-appearance: checkbox !important;
+    appearance: checkbox !important;
+}
+.cleanslate input[type=radio] {
+    margin: 2px 2px 3px 2px !important;
+}
+.cleanslate abbr[title], .cleanslate acronym[title], .cleanslate dfn[title] {
+    cursor:help !important;
+    border-bottom-width:1px !important;
+    border-bottom-style:dotted !important;
+}
+.cleanslate ins {
+    background-color:#ff9 !important;
+    color:black !important;
+}
+.cleanslate del {
+    text-decoration: line-through !important;
+}
+.cleanslate blockquote, .cleanslate q  {
+    quotes:none !important; /* HTML5 */
+}
+.cleanslate blockquote:before, .cleanslate blockquote:after, .cleanslate q:before, .cleanslate q:after, .cleanslate li:before, .cleanslate li:after  {
+    content:"" !important;
+}
+.cleanslate input, .cleanslate select {
+    vertical-align:middle !important;
+}
+
+.cleanslate table {
+    border-collapse:collapse !important;
+    border-spacing:0 !important;
+}
+.cleanslate hr {
+    display:block !important;
+    height:1px !important;
+    border:0 !important;
+    border-top:1px solid #ccc !important;
+    margin:1em 0 !important;
+}
+.cleanslate *[dir=rtl] {
+    direction: rtl !important;
+}
+.cleanslate mark {
+    background-color:#ff9 !important;
+    color:black !important;
+    font-style:italic !important;
+    font-weight:bold !important;
+}
+.cleanslate menu {
+    padding-left: 40px !important;
+    padding-top: 8px !important;
+}
+
+/* additional helpers */
+.cleanslate [hidden],
+.cleanslate template {
+    display: none !important;
+}
+.cleanslate abbr[title] {
+    border-bottom: 1px dotted !important;
+}
+.cleanslate sub, .cleanslate sup {
+    font-size: 75% !important;
+    line-height: 0 !important;
+    position: relative !important;
+    vertical-align: baseline !important;
+}
+.cleanslate sup {
+    top: -0.5em !important;
+}
+.cleanslate sub {
+    bottom: -0.25em !important;
+}
+.cleanslate img {
+    border: 0 !important;
+}
+.cleanslate figure {
+    margin: 0 !important;
+}
+.cleanslate textarea {
+    overflow: auto !important;
+    vertical-align: top !important;
+}
+
+/* == ROOT CONTAINER ELEMENT == */
+/* This contains default values for child elements to inherit  */
+.cleanslate {
+    font-size: medium !important;
+    line-height: 1 !important;
+    direction: inherit !important;
+    text-align: left !important; /* for IE, Opera */
+    text-align: start !important; /* recommended W3C Spec */
+    font-family: "Times New Roman", Times, serif !important; /* Override this with whatever font-family is required */
+    color: black !important;
+    font-style:normal !important;
+    font-weight:normal !important;
+    text-decoration:none !important;
+    list-style-type:disc !important;
+}
+
+.cleanslate pre {
+    white-space:pre !important;
+}
+
+    .cleanslate .share-buttons {
+      text-align: center !important;
+    }
+    .cleanslate .fb-share-button.fb_iframe_widget
+    {
+      display: inline-block !important;
+      vertical-align: top !important;
+      width: 76px !important;
+    }
+    .cleanslate .fb-share-button.fb_iframe_widget iframe {
+      margin-left: -40px;
+    }
+
+    
+    .hearken-app .cleanslate .share-buttons {
+      width: 100% !important;
+      height: 27px !important;
+      background-size: auto 100% !important;
+      background-position: center !important;
+      background-image: url("/img/social_button_placeholders.png") !important;
+      background-repeat: no-repeat !important;
+    }
+    .hearken-app .cleanslate .share-buttons:hover {
+      cursor: not-allowed !important;
+    }
+    .grecaptcha-badge { visibility: hidden; }#multiselectInputauto_assign_to {
+    padding:8px 0px 0px;
+    margin:0px;
+}
+
+#hearken-embed-module-9193-148e4  a {
+    color:#003CFF !important;
+}
+
+#hearken-embed-module-9193-148e4  .header--text {
+    background-color:#3B94FF !important;
+    color:#ffffff !important;
+    text-align:center !important;
+    padding:16px 16px !important;
+    font-weight:800 !important;
+    font-size:15px !important;
+    line-height:18px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .header--image__image {
+    display:block !important;
+    width:100% !important;
+    background-color:#3B94FF !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .embed-content-container {
+    background-color:#efefef !important;
+    padding:15px 15px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .section-header-group {
+    background-color:#efefef !important;
+    padding:0px 0px 15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .section-header-group__section-header {
+    background-color:#efefef !important;
+    color:#425568 !important;
+    padding:0px 0px 0px !important;
+    font-weight:800 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9193-148e4  .section-header-group__section-subheader {
+    background-color:#efefef !important;
+    color:#425568 !important;
+    padding:5px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input--error+.text-input--error {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input+.text-input--error {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input--error+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9193-148e4  .input-threeup-leading>.text-input {
+    padding-right:7px !important;
+}
+
+#hearken-embed-module-9193-148e4  .input-threeup-following>.text-input {
+    padding-left:7px !important;
+}
+
+#hearken-embed-module-9193-148e4  .input-threeup-leading {
+    margin-top:8px !important;
+    width:33.3% !important;
+    display:inline-block !important;
+}
+
+#hearken-embed-module-9193-148e4  .input-threeup-following {
+    margin-top:8px !important;
+    width:33.3% !important;
+    display:inline-block !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input__input {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #694E5F !important;
+    display:block !important;
+    width:100% !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input__input::placeholder {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9193-148e4   .text-input--error::placeholder {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9193-148e4    {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input__input:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input--error__input:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input__label {
+    color:#425568 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input--error__input {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #DD0000 !important;
+    display:block !important;
+    width:100% !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input--error__label {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .long-text-input-container {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    margin-bottom:15px !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input--long {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #694E5F !important;
+    display:block !important;
+    resize:none !important;
+    width:100% !important;
+    height:100px !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input--long:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input--long--error {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #DD0000 !important;
+    display:block !important;
+    resize:none !important;
+    width:100% !important;
+    height:100px !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .input-error-message {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .validation-error {
+    background-color:#DD0000 !important;
+    color:#FFFFFF !important;
+    padding:10px 15px !important;
+    margin-bottom:15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .character-counter {
+    color:#694E5F !important;
+    margin-top:3px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9193-148e4  .button {
+    background:#3B94FF !important;
+    color:#FFFFFF !important;
+    border:0 !important;
+    border-radius:0 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9193-148e4  .button:hover {
+    background:#3B94FF !important;
+    color:#FFFFFF !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    cursor:pointer !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9193-148e4  .button--inactive {
+    background:#DDDDDD !important;
+    border:0 !important;
+    border-radius:0 !important;
+    color:#FFFFFF !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9193-148e4  .button-container {
+    width:100% !important;
+    text-align:center !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .question-list {
+    background-color:#efefef !important;
+    padding:0px 0px !important;
+    max-height:500px !important;
+    overflow:auto !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .question+.question {
+    margin-top:1px !important;
+}
+
+#hearken-embed-module-9193-148e4  .question {
+    background-color:#ffffff !important;
+    padding:12px 15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .question__question-text {
+    color:#425568 !important;
+    cursor:inherit !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .question__question-asker {
+    color:#694E5F !important;
+    margin-top:5px !important;
+    cursor:inherit !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9193-148e4  .question--voteable {
+    margin-top:5px !important;
+    -webkit-appearance:none !important;
+    margin-right:0 !important;
+    background:#FFFFFF !important;
+    padding:8px 8px !important;
+    text-align:left !important;
+    border:0 !important;
+    border-radius:0 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .question--selected {
+    margin-top:5px !important;
+    -webkit-appearance:none !important;
+    margin-right:0 !important;
+    background:#3B94FF !important;
+    padding:8px 8px !important;
+    text-align:left !important;
+    border:0 !important;
+    border-radius:0 !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .question--voteable:hover {
+    background:#3B94FF !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4   .question-list--selected .question--selected {
+    background:#3B94FF !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .votable-question-details {
+    cursor:inherit !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+    padding:0px 10px !important;
+    width:549px !important;
+}
+
+#hearken-embed-module-9193-148e4  .selected-question-details {
+    cursor:inherit !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+    color:#FFFFFF !important;
+    padding:0px 10px !important;
+    width:549px !important;
+}
+
+#hearken-embed-module-9193-148e4  .vote-icon {
+    color:#425568 !important;
+    cursor:inherit !important;
+    width:44px !important;
+    height:44px !important;
+    overflow:hidden !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+}
+
+#hearken-embed-module-9193-148e4  .vote-icon__circle {
+    fill:#3B94FF !important;
+}
+
+#hearken-embed-module-9193-148e4  .question--voteable:hover .question__question-text {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9193-148e4  .question--selected .question__question-text {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9193-148e4  .question--voteable:hover .question__question-asker {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9193-148e4  .question--selected .question__question-asker {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9193-148e4  .question--voteable:hover .vote-icon__circle {
+    fill:#FFFFFF !important;
+}
+
+#hearken-embed-module-9193-148e4   .question-list--selected .question--selected .vote-icon__circle {
+    fill:#FFFFFF !important;
+}
+
+#hearken-embed-module-9193-148e4  .question--voteable:hover .vote-icon__checkmark {
+    stroke:#3B94FF !important;
+}
+
+#hearken-embed-module-9193-148e4   .question-list--selected .question--selected .vote-icon__checkmark {
+    stroke:#3B94FF !important;
+}
+
+#hearken-embed-module-9193-148e4  .checkbox {
+    color:#425568 !important;
+    margin:10px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .checkbox__text {
+    margin:0px 5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .checkbox__text div {
+    display:inline !important;
+}
+
+#hearken-embed-module-9193-148e4  .checkbox__text p {
+    display:inline !important;
+}
+
+#hearken-embed-module-9193-148e4  .bar-graphs-container {
+    padding-bottom:10px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .bar-graph {
+    margin-top:5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .bar-graph__bar {
+    width:100% !important;
+    height:15px !important;
+    position:relative !important;
+    background-color:#C9C9C9 !important;
+    margin-bottom:2px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .bar-graph__bar-fill {
+    height:15px !important;
+    display:inline-block !important;
+    position:absolute !important;
+    top:0px !important;
+    background-color:#425568 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .legend__question-text {
+    width:80% !important;
+    display:inline-block !important;
+    color:#425568 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    white-space:nowrap !important;
+    overflow:hidden !important;
+    text-overflow:ellipsis !important;
+}
+
+#hearken-embed-module-9193-148e4  .legend__question-percent {
+    width:20% !important;
+    display:inline-block !important;
+    color:#425568 !important;
+    text-align:end !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    white-space:nowrap !important;
+    overflow:hidden !important;
+    text-overflow:ellipsis !important;
+}
+
+#hearken-embed-module-9193-148e4  .bar-graph__bar-fill.bar-graph__bar-fill--voted-for {
+    background-color:#3B94FF !important;
+}
+
+#hearken-embed-module-9193-148e4  .legend__question-text--voted-for {
+    color:#3B94FF !important;
+}
+
+#hearken-embed-module-9193-148e4  .legend__question-percent--voted-for {
+    color:#3B94FF !important;
+}
+
+#hearken-embed-module-9193-148e4  .social-buttons-container {
+    padding:10px 0px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .footer {
+    color:#425568 !important;
+    background-color:#efefef !important;
+    padding:15px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .footer--text {
+    color:#425568 !important;
+    background-color:#efefef !important;
+    padding:0px 15px 15px !important;
+    padding-left:15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .footer--image {
+    padding:0px 0px 15px !important;
+    background-color:#efefef !important;
+}
+
+#hearken-embed-module-9193-148e4  .footer--image__image {
+    display:block !important;
+    width:100% !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .hearken-badge {
+    background-color:#efefef !important;
+    padding:12px 15px !important;
+    color:#694E5F !important;
+    text-align:end !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9193-148e4  .recaptcha-badge {
+    background-color:inherit !important;
+    color:inherit !important;
+    text-align:start !important;
+    padding:5px 5px !important;
+    font-size:10px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:9.744px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9193-148e4  .hearken-badge__link {
+    color:#694E5F !important;
+    text-decoration:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input {
+    border:1px solid #694E5F !important;
+    padding:11px 13px !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input__label {
+    color:#425568 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input__error-label {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input+.select-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input:focus {
+    border-color:#52A3EC !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input:hover>.select-input__icon {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    color:#52A3EC !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input__input {
+    appearance:none !important;
+    -webkit-appearance:none !important;
+    border:0 !important;
+    text-align:left !important;
+    width:100% !important;
+    outline:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input {
+    background-color:#FFFFFF !important;
+    position:relative !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input:focus-within {
+    background-color:#FFFFFF !important;
+    position:relative !important;
+    outline:auto 5px -webkit-focus-ring-color !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input__icon {
+    position:absolute !important;
+    top:12px !important;
+    right:10px !important;
+    width:15px !important;
+    height:15px !important;
+    pointer-events:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input:hover>.select-input__icon {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    color:#52A3EC !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input--container+.select-input--container {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9193-148e4  .select-input--container+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9193-148e4  .text-input+.select-input--container {
+    margin-top:8px !important;
+}0/140Your contact infoWe'll be in touch if we publish any follow up articles. Sign me up for Business Maverick newsletter!
+Please don't publish my name
+I am over 16 years old
+I accept the Terms of Service
+SubmitPowered by Hearken | Terms of Service | Privacy Policy Sign me up for Business Maverick newsletter! Please don't publish my name I am over 16 years old I accept the Terms of Service
