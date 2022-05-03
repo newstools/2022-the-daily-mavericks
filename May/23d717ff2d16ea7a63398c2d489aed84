@@ -1,0 +1,1197 @@
+Should South Africans switch to electric cars to reduce their environmental footprint? The answer is no. In the South African context, electric cars are currently the dirtiest means of personal transport available, and will remain so until we have fixed our electricity generation. Autotrader’s annual industry report in 2021 included a section for electric vehicles (EVs) for the first time, revealing that interest in these vehicles has surged. The Trade & Industrial Policy Strategies (Tips) group has called for government grants to encourage the purchase of EVs to reduce the environmental footprint of the automotive sector. In isolation, this makes no sense, because of the enormous environmental footprint associated with the manufacture of new vehicles, regardless of type. But might the long-term benefits of EVs outweigh the short-term environmental impacts of their manufacture? This is a particularly piercing question, since EVs, due to the rare earth metals of their batteries and their greater average weight, have a larger manufacturing footprint than equivalent internal combustion engine vehicles. In order to get a sense of when, or if, an EV will break even on its carbon emissions compared to an internal combustion engine competitor, we need a reasonable comparison in the South African context. The most convenient available basis of comparison is that of CO2 emissions per unit of energy delivered to the wheels, from the starting point of a ready-to-burn fuel as energy source. This differs a bit from a full ‘well-to-wheels’ comparison because it omits the environmental impacts of extraction, processing, and distribution. This omission is likely to be kinder to EVs than to internal combustion engines; 90% of South Africa’s electricity is produced from coal, the mining and processing of which is a remarkably dirty business. Still, it is fair to assume that the impacts of extraction for each energy source are fairly comparable so, for a preliminary broad analysis, fuel-to-wheels is a reasonable basis of comparison. Careful calculations (see calculations below) show that even using conservative estimates, an EV charged using South Africa’s current electric grid will have about 18% higher carbon emissions than a conventional petrol vehicle. Generally speaking, the overall energy efficiency of using EVs is higher, if the initial source of energy is the same — the difference here arises because 90% of South Africa’s electricity is produced by outdated, low-efficiency coal-fired power stations. There are sources of error and uncertainty on both sides of this calculation, as well as unaccounted-for emissions, but the margin is sufficient for confidence in the overall outcome. Thus we can conclude that until and unless South Africa has thoroughly reformed electricity generation and distribution, electric cars should not even be remotely considered as environmentally friendly — they are quite literally the dirtiest available means of personal transport. Phasing out coal and refurbishing our grid may well improve that picture quite substantially, but there is a far larger inefficiency that is omitted from these calculations: a typical car weighs about 1,800kg, while a typical human weighs 70kg. When a person drives alone, scarcely 4% of the energy going to the wheel is actually used for the task of actually moving that car’s occupant around — the rest is devoted to moving the vehicle itself. Quibbling over percentage points of fuel-to-wheel efficiency seems like a ridiculous exercise when energy wastage at the wheel exceeds the actual useful work by a factor of 25. The core issue of personal transportation is the sheer quantity of energy used, not the source of that energy. From a technological standpoint, this excessive energy use is a solved problem — there are alternative modes of transport that use a fraction of the energy. If Elon Musk genuinely wanted to solve climate change, he would be selling bicycles, not electric cars. Bicycles, of course, are not for everybody and certainly not for every occasion but trams, buses, trains and motorcycles all operate on a fraction of the energy requirements of a car, regardless of the initial source of that energy. Many people may be dubious of the capital cost of the infrastructure needed for those modes of transport. This can be remedied by conducting the quick exercise of multiplying the number of cars registered in South Africa (7 million) by the price of a Tesla ($40,000), or recalling that even a lightly-trafficked rural road costs R3.5 million per kilometre, with freeways costing several multiples of that per lane. Cars are also the most infrastructure-intensive means of transport, and have ancillary costs that are easy to forget. In car-dependent cities, a sizeable fraction of total land use is devoted to roads and parking — as high as 35% to 50% in some cities. If we had fewer cars, we would also have more space. That is not to say that cars should be wiped from our roads entirely — in some respects, they simply aren’t replaceable. But personal transport has always been a mixture of modalities, and an optimised, efficient transport network will entail fewer personal cars, with a greater share going to public transport and low-energy personal transport. The cars that are part of an optimised network may well be electrically driven, but with an ownership pattern shifted toward car-sharing to increase usage rates per vehicle, reducing manufacturing burden relative to usage as well as reducing the percentage of charge that is wasted. If and when South Africa’s energy picture improves to the point that EVs have a lower carbon footprint than internal combustion engines, they will still compare badly to other personal transport options, and their widespread adoption will still require a carbon- and resource-intensive transition process. Subsidies should not be allocated on a “second-worst option” basis. EVs are not a departure from energy-intensive, environmentally damaging personal transport; they continue that status quo. Even if we are destined to transition entirely to renewable energy (as we eventually must), how long it takes us to make that transition, how much it will cost, and what resources must be consumed to achieve it, will all be directly proportional to the amount of energy that we are using. Subsidies, then, should be directed toward reducing energy use rather than perpetuating exorbitantly energy-intensive activities. Subsidies directed toward EVs would, by extension, subsidise the iron and coal mining that support steel manufacture, while discouraging the use of efficient alternatives. Those who propose that the government should subsidise them as they drag the better part of two tons of steel, plastic and rare earth metals around with them everywhere they go, are not advocating for the environment, they are advocating for the industries that supply those materials. Fuel to wheel: electric cars Let us broadly estimate the amount of CO2 released to deliver 1MJ of energy to a wheel via an electric car. Working backwards from the wheel, we start with the efficiency of the motor at converting energy into motion. Under laboratory conditions, electric motors have reached as high as 95%, but the figure of 90% is more commonly used for real-world usage. Then there are the charge and discharge efficiencies. Not all the electricity that comes out of the socket makes it into the battery, and not all the energy from the battery makes it into the motor, as some of it is lost as charge self-dissipation from the battery. If someone keeps an electric car charged, but seldom uses it, then charge dissipation will represent a higher percentage of overall energy consumption than if they use it more frequently. Hence the actual charge/discharge efficiency will vary quite considerably between users. The best-case scenario is likely to be an efficiency around 90% and we can once again use that for our estimate, with the awareness that it is variable, and likely to be considerably worse for the typical user over a vehicle’s lifespan. The next step to be considered is the transmission of electricity from the power station to the plug socket. Some estimation is needed here because Eskom does not publish those figures. The United States, however, claims an overall distribution efficiency of 91.3%, a figure which has been reached as a result of consistent improvements in performance. Similar ongoing improvement has been notably lacking in Eskom’s transmission infrastructure, which is generally believed to have deteriorated over time, as evidenced by the rising frequency of transformer substation fires. Eskom’s transmission distances are rather more considerable than the global average; the belt of coal-fired power stations in Mpumalanga is 160km from Johannesburg, 600km from Durban and 1,600km from Cape Town. Eskom has also reported that some 10% of the grid’s electricity is lost to illegal connections. These compounded issues make it unlikely that overall efficiency exceeds 80%, but we can use that figure without too much risk of embarrassment. This brings us to the power stations themselves. South Africa operates a fleet of outdated coal-fired boilers. Eskom does publish the rated design efficiencies for many of its stations, and most come in at a quite appalling 35% efficiency. However, the 10% of SA’s electricity that does not come from coal comes mostly from clean sources, so we can take the shortcut of calculating the overall footprint using 0.9MJ of energy at the wheel rather than 1MJ. Dividing 0.9MJ by the product of all these efficiency terms, we get the following: 0.9MJ / (90% x 90 x 80% x 35%). This indicates that to get 1MJ of energy to the wheel, with 0.9MJ of it coming from coal, a total of 4.0MJ of energy must be yielded by the combustion of that coal. The combustion of coal can be loosely characterised by the simplified stoichiometric reaction: C + O2 CO2, yielding 393.5kJ/mol of Carbon combusted. Thus, getting 1MJ of energy to the wheel of an EV in South Africa will emit roughly 9.9mol of CO2 from the combustion of coal. The fuel-to-wheel evaluation of petrol from oil entails fewer steps, as the petrol is burned directly in the engine. 25% is commonly used as a rule-of-thumb efficiency for internal combustion engines, so we will apply that here. Only about 70% of South Africa’s fuel is derived from oil, however; around 30% is produced by SASOL from coal, in a Coal-To-Liquids (CTL) process. Thus, we will have to use a weighted sum of those two sources. The combustion of petrol can be loosely characterised by the simplified stoichiometric equation C8H18 + 12.5O2 8CO2 + 9H2O, yielding 5,461kJ per mol of petrol combusted, or 682kJ per mol of CO2 emitted. At 25% efficiency this results in 5.8 mol of CO2 emitted per 1MJ of energy delivered at the wheel, which corresponds to 4.06 mol for the 70% contribution to our fuel mix. For the other 30%, we use the same overall stoichiometry for coal to carbon dioxide as we did for power generation from coal, but with an additional inefficiency for the coal-to-liquids step, which is generally accepted to have around 70% thermal efficiency. This gives us a rather woeful overall fuel-to-wheel efficiency of 17.5%, with CO2 emissions at 14.5 mol CO2 per 1MJ delivered to the wheel. For the 0.3MJ weighted contribution that comes to 4.35 mol of CO2, giving us a total of 8.4mol of CO2 per MJ delivered to the wheel and yielding two crucial insights. The first insight is that Sasol’s CTL process is a disproportionate contributor to the overall CO2 footprint of fuel use in South Africa. If the proportional share that Sasol’s CTL process has in our fuel mix changes, so does the environmental footprint of petrol and diesel. That share could potentially increase in the foreseeable future — with the closure of the Sapref refinery, our fuel production capacity has diminished and we are becoming increasingly reliant on imports, which creates a positive market climate for Sasol to expand its production. Conversely, however, Sasol has also resolved to reduce the carbon footprint of its CTL process by incorporating natural gas as a feedstock to reduce the amount of coal used. The key takeaway is that, as long as we are using petrol and diesel, we should be conscious of where they come from and how they are made — there are stark differences in environmental footprint between different sources. DM The author is a scientist in Wits University’s Chemical Engineering department. First published by GroundUp. <img style="display: none; width: 1px;" src="https://thirdpartyhits.groundup.org.za/counter/hit/dailymaverick/2022-05-03-electric-cars-not-yet-solution-for-south-africa/" alt="" />  /*!
+* CleanSlate
+*   github.com/premasagar/cleanslate
+*
+*//*
+    An extreme CSS reset stylesheet, for normalising the styling of a container element and its children.
+
+    by Premasagar Rose
+        dharmafly.com
+
+    license
+        opensource.org/licenses/mit-license.php
+
+    **
+
+    v0.10.1
+
+*/
+
+/* == BLANKET RESET RULES == */
+
+/* HTML 4.01 */
+.cleanslate h1, .cleanslate h2, .cleanslate h3, .cleanslate h4, .cleanslate h5, .cleanslate h6, .cleanslate p, .cleanslate td, .cleanslate dl, .cleanslate tr, .cleanslate dt, .cleanslate ol, .cleanslate form, .cleanslate select, .cleanslate option, .cleanslate pre, .cleanslate div, .cleanslate table,  .cleanslate th, .cleanslate tbody, .cleanslate tfoot, .cleanslate caption, .cleanslate thead, .cleanslate ul, .cleanslate li, .cleanslate address, .cleanslate blockquote, .cleanslate dd, .cleanslate fieldset, .cleanslate li, .cleanslate NO-iframe, .cleanslate strong, .cleanslate legend, .cleanslate em, .cleanslate summary, .cleanslate cite, .cleanslate span, .cleanslate input, .cleanslate sup, .cleanslate label, .cleanslate dfn, .cleanslate object, .cleanslate big, .cleanslate q, .cleanslate samp, .cleanslate acronym, .cleanslate small, .cleanslate img, .cleanslate strike, .cleanslate code, .cleanslate sub, .cleanslate ins, .cleanslate textarea, .cleanslate button, .cleanslate var, .cleanslate a, .cleanslate abbr, .cleanslate applet, .cleanslate del, .cleanslate kbd, .cleanslate tt, .cleanslate b, .cleanslate i, .cleanslate hr,
+
+/* HTML5 - Sept 2013 taken from MDN https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list */
+.cleanslate article, .cleanslate aside, .cleanslate figure, .cleanslate figcaption, .cleanslate footer, .cleanslate header, .cleanslate menu, .cleanslate nav, .cleanslate section, .cleanslate time, .cleanslate mark, .cleanslate audio, .cleanslate video, .cleanslate abbr, .cleanslate address, .cleanslate area, .cleanslate blockquote, .cleanslate canvas, .cleanslate caption, .cleanslate cite, .cleanslate code, .cleanslate colgroup, .cleanslate col, .cleanslate datalist, .cleanslate fieldset, .cleanslate main, .cleanslate map, .cleanslate meta, .cleanslate optgroup, .cleanslate output, .cleanslate progress {
+    background-attachment:scroll !important;
+    background-color:transparent !important;
+    background-image:none !important; /* This rule affects the use of pngfix JavaScript http://dillerdesign.com/experiment/DD_BelatedPNG for IE6, which is used to force the browser to recognise alpha-transparent PNGs files that replace the IE6 lack of PNG transparency. (The rule overrides the VML image that is used to replace the given CSS background-image). If you don't know what that means, then you probably haven't used the pngfix script, and this comment may be ignored :) */
+    background-position:0 0 !important;
+    background-repeat:repeat !important;
+    border-color:black !important;
+    border-color:currentColor !important; /* `border-color` should match font color. Modern browsers (incl. IE9) allow the use of "currentColor" to match the current font 'color' value <http://www.w3.org/TR/css3-color/#currentcolor>. For older browsers, a default of 'black' is given before this rule. Guideline to support older browsers: if you haven't already declared a border-color for an element, be sure to do so, e.g. when you first declare the border-width. */
+    border-radius:0 !important;
+    border-style:none !important;
+    border-width:medium !important;
+    bottom:auto !important;
+    clear:none !important;
+    clip:auto !important;
+    color:inherit !important;
+    counter-increment:none !important;
+    counter-reset:none !important;
+    cursor:auto !important;
+    direction:inherit !important;
+    display:inline !important;
+    float:none !important;
+    font-family: inherit !important; /* As with other inherit values, this needs to be set on the root container element */
+    font-size: inherit !important;
+    font-style:inherit !important;
+    font-variant:normal !important;
+    font-weight:normal !important;
+    height:auto !important;
+    left:auto !important;
+    letter-spacing:normal !important;
+    line-height:inherit !important;
+    list-style-type: inherit !important; /* Could set list-style-type to none */
+    list-style-position: outside !important;
+    list-style-image: none !important;
+    margin:0 !important;
+    max-height:none !important;
+    max-width:none !important;
+    min-height:0 !important;
+    min-width:0 !important;
+    opacity:1;
+    outline:invert none medium !important;
+    overflow:visible !important;
+    padding:0 !important;
+    position:static !important;
+    quotes: "" "" !important;
+    right:auto !important;
+    table-layout:auto !important;
+    text-align:inherit !important;
+    text-decoration:inherit !important;
+    text-indent:0 !important;
+    text-transform:none !important;
+    top:auto !important;
+    unicode-bidi:normal !important;
+    vertical-align:baseline !important;
+    visibility:inherit !important;
+    white-space:normal !important;
+    width:auto !important;
+    word-spacing:normal !important;
+    z-index:auto !important;
+
+    /* CSS3 */
+    /* Including all prefixes according to http://caniuse.com/ */
+    /* CSS Animations don't cascade, so don't require resetting */
+    -webkit-background-origin: padding-box !important;
+            background-origin: padding-box !important;
+    -webkit-background-clip: border-box !important;
+            background-clip: border-box !important;
+    -webkit-background-size: auto !important;
+       -moz-background-size: auto !important;
+            background-size: auto !important;
+    -webkit-border-image: none !important;
+       -moz-border-image: none !important;
+         -o-border-image: none !important;
+            border-image: none !important;
+    -webkit-border-radius:0 !important;
+       -moz-border-radius:0 !important;
+            border-radius: 0 !important;
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+    -webkit-box-sizing: content-box !important;
+       -moz-box-sizing: content-box !important;
+            box-sizing: content-box !important;
+    -webkit-column-count: auto !important;
+       -moz-column-count: auto !important;
+            column-count: auto !important;
+    -webkit-column-gap: normal !important;
+       -moz-column-gap: normal !important;
+            column-gap: normal !important;
+    -webkit-column-rule: medium none black !important;
+       -moz-column-rule: medium none black !important;
+            column-rule: medium none black !important;
+    -webkit-column-span: 1 !important;
+       -moz-column-span: 1 !important; /* doesn't exist yet but probably will */
+            column-span: 1 !important;
+    -webkit-column-width: auto !important;
+       -moz-column-width: auto !important;
+            column-width: auto !important;
+    font-feature-settings: normal !important;
+    overflow-x: visible !important;
+    overflow-y: visible !important;
+    -webkit-hyphens: manual !important;
+       -moz-hyphens: manual !important;
+            hyphens: manual !important;
+    -webkit-perspective: none !important;
+       -moz-perspective: none !important;
+        -ms-perspective: none !important;
+         -o-perspective: none !important;
+            perspective: none !important;
+    -webkit-perspective-origin: 50% 50% !important;
+       -moz-perspective-origin: 50% 50% !important;
+        -ms-perspective-origin: 50% 50% !important;
+         -o-perspective-origin: 50% 50% !important;
+            perspective-origin: 50% 50% !important;
+    -webkit-backface-visibility: visible !important;
+       -moz-backface-visibility: visible !important;
+        -ms-backface-visibility: visible !important;
+         -o-backface-visibility: visible !important;
+            backface-visibility: visible !important;
+    text-shadow: none !important;
+    -webkit-transition: all 0s ease 0s !important;
+            transition: all 0s ease 0s !important;
+    -webkit-transform: none !important;
+       -moz-transform: none !important;
+        -ms-transform: none !important;
+         -o-transform: none !important;
+            transform: none !important;
+    -webkit-transform-origin: 50% 50% !important;
+       -moz-transform-origin: 50% 50% !important;
+        -ms-transform-origin: 50% 50% !important;
+         -o-transform-origin: 50% 50% !important;
+            transform-origin: 50% 50% !important;
+    -webkit-transform-style: flat !important;
+       -moz-transform-style: flat !important;
+        -ms-transform-style: flat !important;
+         -o-transform-style: flat !important;
+            transform-style: flat !important;
+    word-break: normal !important;
+}
+
+/* == BLOCK-LEVEL == */
+/* Actually, some of these should be inline-block and other values, but block works fine (TODO: rigorously verify this) */
+/* HTML 4.01 */
+.cleanslate, .cleanslate h3, .cleanslate h5, .cleanslate p, .cleanslate h1, .cleanslate dl, .cleanslate dt, .cleanslate h6, .cleanslate ol, .cleanslate form, .cleanslate option, .cleanslate pre, .cleanslate div, .cleanslate h2, .cleanslate caption, .cleanslate h4, .cleanslate ul, .cleanslate address, .cleanslate blockquote, .cleanslate dd, .cleanslate fieldset, .cleanslate hr,
+
+/* HTML5 new elements */
+.cleanslate article, .cleanslate dialog, .cleanslate figure, .cleanslate footer, .cleanslate header, .cleanslate hgroup, .cleanslate menu, .cleanslate nav, .cleanslate section, .cleanslate audio, .cleanslate video, .cleanslate address, .cleanslate blockquote, .cleanslate colgroup, .cleanslate main, .cleanslate progress, .cleanslate summary {
+    display:block !important;
+}
+.cleanslate h1, .cleanslate h2, .cleanslate h3, .cleanslate h4, .cleanslate h5, .cleanslate h6 {
+    font-weight: bold !important;
+}
+.cleanslate h1 {
+    font-size: 2em !important;
+    padding: .67em 0 !important;
+}
+.cleanslate h2 {
+    font-size: 1.5em !important;
+    padding: .83em 0 !important;
+}
+.cleanslate h3 {
+    font-size: 1.17em !important;
+    padding: .83em 0 !important;
+}
+.cleanslate h4 {
+    font-size: 1em !important;
+}
+.cleanslate h5 {
+    font-size: .83em !important;
+}
+.cleanslate p {
+    margin: 0 !important;
+}
+.cleanslate p+p {
+    margin-top: 1em !important;
+}
+.cleanslate table {
+    display: table !important;
+}
+.cleanslate thead {
+    display: table-header-group !important;
+}
+.cleanslate tbody {
+    display: table-row-group !important;
+}
+.cleanslate tfoot {
+    display: table-footer-group !important;
+}
+.cleanslate tr {
+    display: table-row !important;
+}
+.cleanslate th, .cleanslate td {
+    display: table-cell !important;
+    padding: 2px !important;
+}
+
+/* == SPECIFIC ELEMENTS == */
+/* Some of these are browser defaults; some are just useful resets */
+.cleanslate ol, .cleanslate ul {
+    margin: 1em 0 !important;
+}
+.cleanslate ul li, .cleanslate ul ul li, .cleanslate ul ul ul li, .cleanslate ol li, .cleanslate ol ol li, .cleanslate ol ol ol li, .cleanslate ul ol ol li, .cleanslate ul ul ol li, .cleanslate ol ul ul li, .cleanslate ol ol ul li {
+    list-style-position: inside !important;
+    margin-top: .08em !important;
+}
+.cleanslate ol ol, .cleanslate ol ol ol, .cleanslate ul ul, .cleanslate ul ul ul, .cleanslate ol ul, .cleanslate ol ul ul, .cleanslate ol ol ul, .cleanslate ul ol, .cleanslate ul ol ol, .cleanslate ul ul ol {
+    padding-left: 40px !important;
+    margin: 0 !important;
+}
+/* helper for general navigation */
+.cleanslate nav ul, .cleanslate nav ol {
+    list-style-type:none !important;
+
+}
+.cleanslate ul, .cleanslate menu {
+    list-style-type:disc !important;
+}
+.cleanslate ol {
+    list-style-type:decimal !important;
+}
+.cleanslate ol ul, .cleanslate ul ul, .cleanslate menu ul, .cleanslate ol menu, .cleanslate ul menu, .cleanslate menu menu {
+    list-style-type:circle !important;
+}
+.cleanslate ol ol ul, .cleanslate ol ul ul, .cleanslate ol menu ul, .cleanslate ol ol menu, .cleanslate ol ul menu, .cleanslate ol menu menu, .cleanslate ul ol ul, .cleanslate ul ul ul, .cleanslate ul menu ul, .cleanslate ul ol menu, .cleanslate ul ul menu, .cleanslate ul menu menu, .cleanslate menu ol ul, .cleanslate menu ul ul, .cleanslate menu menu ul, .cleanslate menu ol menu, .cleanslate menu ul menu, .cleanslate menu menu menu {
+    list-style-type:square !important;
+}
+.cleanslate li {
+    display:list-item !important;
+    /* Fixes IE7 issue with positioning of nested bullets */
+    min-height:auto !important;
+    min-width:auto !important;
+    padding-left: 20px !important; /* replace -webkit-padding-start: 40px; */
+}
+.cleanslate strong {
+    font-weight:bold !important;
+}
+.cleanslate em {
+    font-style:italic !important;
+}
+.cleanslate kbd, .cleanslate samp, .cleanslate code, .cleanslate pre {
+  font-family:monospace !important;
+}
+.cleanslate a {
+    color: blue !important;
+    text-decoration: underline !important;
+}
+.cleanslate a:visited {
+    color: #529 !important;
+}
+.cleanslate a, .cleanslate a *, .cleanslate input[type=submit], .cleanslate input[type=button], .cleanslate input[type=radio], .cleanslate input[type=checkbox], .cleanslate select, .cleanslate button {
+    cursor:pointer !important;
+}
+.cleanslate button, .cleanslate input[type=submit] {
+    text-align: center !important;
+    padding: 2px 6px 3px !important;
+    border-radius: 4px !important;
+    text-decoration: none !important;
+    font-family: arial, helvetica, sans-serif !important;
+    font-size: small !important;
+    background: white !important;
+    -webkit-appearance: push-button !important;
+    color: buttontext !important;
+    border: 1px #a6a6a6 solid !important;
+    background: lightgrey !important; /* Old browsers */
+    background: rgb(255,255,255); /* Old browsers */
+}
+.cleanslate button:active, .cleanslate input[type=submit]:active, .cleanslate input[type=button]:active, .cleanslate button:active {
+background: rgb(59,103,158) !important; /* Old browsers */
+border-color: #5259b0 !important;
+}
+.cleanslate button {
+    padding: 1px 6px 2px 6px !important;
+    margin-right: 5px !important;
+}
+.cleanslate input[type=hidden] {
+    display:none !important;
+}
+/* restore form defaults */
+.cleanslate textarea {
+    -webkit-appearance: textarea !important;
+    background: white !important;
+    padding: 0 !important;
+    margin-left: 0 !important;
+    word-wrap: break-word !important;
+    white-space: pre-wrap !important;
+    font-size: 11px !important;
+    font-family: arial, helvetica, sans-serif !important;
+    line-height: 13px !important;
+    resize: both !important;
+}
+.cleanslate select, .cleanslate textarea, .cleanslate input {
+    border:1px solid #ccc !important;
+}
+.cleanslate select {
+    font-size: 11px !important;
+    font-family: helvetica, arial, sans-serif !important;
+    display: inline-block;
+}
+.cleanslate textarea:focus, .cleanslate input:focus {
+    outline: auto 5px -webkit-focus-ring-color !important;
+}
+
+.cleanslate textarea::placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea::-webkit-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea::-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea:-ms-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea:-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate input::placeholder { color: #a9a9a9 !important; }
+.cleanslate input::-webkit-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate input::-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate input:-ms-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate input:-moz-placeholder { color: #a9a9a9 !important; }
+
+.cleanslate input[type=text] {
+    background: white !important;
+    padding: 1px !important;
+    font-family: initial !important;
+    font-size: small !important;
+}
+.cleanslate input[type=checkbox], .cleanslate input[type=radio] {
+    border: 1px #2b2b2b solid !important;
+    border-radius: 4px !important;
+}
+.cleanslate input[type=checkbox] {
+    -webkit-appearance: checkbox !important;
+    -moz-appearance: checkbox !important;
+    appearance: checkbox !important;
+}
+.cleanslate input[type=radio] {
+    margin: 2px 2px 3px 2px !important;
+}
+.cleanslate abbr[title], .cleanslate acronym[title], .cleanslate dfn[title] {
+    cursor:help !important;
+    border-bottom-width:1px !important;
+    border-bottom-style:dotted !important;
+}
+.cleanslate ins {
+    background-color:#ff9 !important;
+    color:black !important;
+}
+.cleanslate del {
+    text-decoration: line-through !important;
+}
+.cleanslate blockquote, .cleanslate q  {
+    quotes:none !important; /* HTML5 */
+}
+.cleanslate blockquote:before, .cleanslate blockquote:after, .cleanslate q:before, .cleanslate q:after, .cleanslate li:before, .cleanslate li:after  {
+    content:"" !important;
+}
+.cleanslate input, .cleanslate select {
+    vertical-align:middle !important;
+}
+
+.cleanslate table {
+    border-collapse:collapse !important;
+    border-spacing:0 !important;
+}
+.cleanslate hr {
+    display:block !important;
+    height:1px !important;
+    border:0 !important;
+    border-top:1px solid #ccc !important;
+    margin:1em 0 !important;
+}
+.cleanslate *[dir=rtl] {
+    direction: rtl !important;
+}
+.cleanslate mark {
+    background-color:#ff9 !important;
+    color:black !important;
+    font-style:italic !important;
+    font-weight:bold !important;
+}
+.cleanslate menu {
+    padding-left: 40px !important;
+    padding-top: 8px !important;
+}
+
+/* additional helpers */
+.cleanslate [hidden],
+.cleanslate template {
+    display: none !important;
+}
+.cleanslate abbr[title] {
+    border-bottom: 1px dotted !important;
+}
+.cleanslate sub, .cleanslate sup {
+    font-size: 75% !important;
+    line-height: 0 !important;
+    position: relative !important;
+    vertical-align: baseline !important;
+}
+.cleanslate sup {
+    top: -0.5em !important;
+}
+.cleanslate sub {
+    bottom: -0.25em !important;
+}
+.cleanslate img {
+    border: 0 !important;
+}
+.cleanslate figure {
+    margin: 0 !important;
+}
+.cleanslate textarea {
+    overflow: auto !important;
+    vertical-align: top !important;
+}
+
+/* == ROOT CONTAINER ELEMENT == */
+/* This contains default values for child elements to inherit  */
+.cleanslate {
+    font-size: medium !important;
+    line-height: 1 !important;
+    direction: inherit !important;
+    text-align: left !important; /* for IE, Opera */
+    text-align: start !important; /* recommended W3C Spec */
+    font-family: "Times New Roman", Times, serif !important; /* Override this with whatever font-family is required */
+    color: black !important;
+    font-style:normal !important;
+    font-weight:normal !important;
+    text-decoration:none !important;
+    list-style-type:disc !important;
+}
+
+.cleanslate pre {
+    white-space:pre !important;
+}
+
+    .cleanslate .share-buttons {
+      text-align: center !important;
+    }
+    .cleanslate .fb-share-button.fb_iframe_widget
+    {
+      display: inline-block !important;
+      vertical-align: top !important;
+      width: 76px !important;
+    }
+    .cleanslate .fb-share-button.fb_iframe_widget iframe {
+      margin-left: -40px;
+    }
+
+    
+    .hearken-app .cleanslate .share-buttons {
+      width: 100% !important;
+      height: 27px !important;
+      background-size: auto 100% !important;
+      background-position: center !important;
+      background-image: url("/img/social_button_placeholders.png") !important;
+      background-repeat: no-repeat !important;
+    }
+    .hearken-app .cleanslate .share-buttons:hover {
+      cursor: not-allowed !important;
+    }
+    .grecaptcha-badge { visibility: hidden; }#multiselectInputauto_assign_to {
+    padding:8px 0px 0px;
+    margin:0px;
+}
+
+#hearken-embed-module-9419-14267  a {
+    color:#003CFF !important;
+}
+
+#hearken-embed-module-9419-14267  .header--text {
+    background-color:#F1731E !important;
+    color:#ffffff !important;
+    text-align:center !important;
+    padding:16px 16px !important;
+    font-weight:800 !important;
+    font-size:19px !important;
+    line-height:22.8px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .header--image__image {
+    display:block !important;
+    width:100% !important;
+    background-color:#F1731E !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .embed-content-container {
+    background-color:#efefef !important;
+    padding:15px 15px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .section-header-group {
+    background-color:#efefef !important;
+    padding:0px 0px 15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .section-header-group__section-header {
+    background-color:#efefef !important;
+    color:#425568 !important;
+    padding:0px 0px 0px !important;
+    font-weight:800 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9419-14267  .section-header-group__section-subheader {
+    background-color:#efefef !important;
+    color:#425568 !important;
+    padding:5px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input--error+.text-input--error {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input+.text-input--error {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input--error+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9419-14267  .input-threeup-leading>.text-input {
+    padding-right:7px !important;
+}
+
+#hearken-embed-module-9419-14267  .input-threeup-following>.text-input {
+    padding-left:7px !important;
+}
+
+#hearken-embed-module-9419-14267  .input-threeup-leading {
+    margin-top:8px !important;
+    width:33.3% !important;
+    display:inline-block !important;
+}
+
+#hearken-embed-module-9419-14267  .input-threeup-following {
+    margin-top:8px !important;
+    width:33.3% !important;
+    display:inline-block !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input__input {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #694E5F !important;
+    display:block !important;
+    width:100% !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input__input::placeholder {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9419-14267   .text-input--error::placeholder {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9419-14267    {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input__input:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input--error__input:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input__label {
+    color:#425568 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input--error__input {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #DD0000 !important;
+    display:block !important;
+    width:100% !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input--error__label {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .long-text-input-container {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    margin-bottom:15px !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input--long {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #694E5F !important;
+    display:block !important;
+    resize:none !important;
+    width:100% !important;
+    height:100px !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input--long:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input--long--error {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #DD0000 !important;
+    display:block !important;
+    resize:none !important;
+    width:100% !important;
+    height:100px !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .input-error-message {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .validation-error {
+    background-color:#DD0000 !important;
+    color:#FFFFFF !important;
+    padding:10px 15px !important;
+    margin-bottom:15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .character-counter {
+    color:#694E5F !important;
+    margin-top:3px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9419-14267  .button {
+    background:#F1731E !important;
+    color:#FFFFFF !important;
+    border:0 !important;
+    border-radius:0 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9419-14267  .button:hover {
+    background:#F1731E !important;
+    color:#FFFFFF !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    cursor:pointer !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9419-14267  .button--inactive {
+    background:#DDDDDD !important;
+    border:0 !important;
+    border-radius:0 !important;
+    color:#FFFFFF !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9419-14267  .button-container {
+    width:100% !important;
+    text-align:center !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .question-list {
+    background-color:#efefef !important;
+    padding:0px 0px !important;
+    max-height:500px !important;
+    overflow:auto !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .question+.question {
+    margin-top:1px !important;
+}
+
+#hearken-embed-module-9419-14267  .question {
+    background-color:#ffffff !important;
+    padding:12px 15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .question__question-text {
+    color:#425568 !important;
+    cursor:inherit !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .question__question-asker {
+    color:#694E5F !important;
+    margin-top:5px !important;
+    cursor:inherit !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9419-14267  .question--voteable {
+    margin-top:5px !important;
+    -webkit-appearance:none !important;
+    margin-right:0 !important;
+    background:#FFFFFF !important;
+    padding:8px 8px !important;
+    text-align:left !important;
+    border:0 !important;
+    border-radius:0 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .question--selected {
+    margin-top:5px !important;
+    -webkit-appearance:none !important;
+    margin-right:0 !important;
+    background:#3B94FF !important;
+    padding:8px 8px !important;
+    text-align:left !important;
+    border:0 !important;
+    border-radius:0 !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .question--voteable:hover {
+    background:#3B94FF !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267   .question-list--selected .question--selected {
+    background:#3B94FF !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .votable-question-details {
+    cursor:inherit !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+    padding:0px 10px !important;
+    width:549px !important;
+}
+
+#hearken-embed-module-9419-14267  .selected-question-details {
+    cursor:inherit !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+    color:#FFFFFF !important;
+    padding:0px 10px !important;
+    width:549px !important;
+}
+
+#hearken-embed-module-9419-14267  .vote-icon {
+    color:#425568 !important;
+    cursor:inherit !important;
+    width:44px !important;
+    height:44px !important;
+    overflow:hidden !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+}
+
+#hearken-embed-module-9419-14267  .vote-icon__circle {
+    fill:#3B94FF !important;
+}
+
+#hearken-embed-module-9419-14267  .question--voteable:hover .question__question-text {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9419-14267  .question--selected .question__question-text {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9419-14267  .question--voteable:hover .question__question-asker {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9419-14267  .question--selected .question__question-asker {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9419-14267  .question--voteable:hover .vote-icon__circle {
+    fill:#FFFFFF !important;
+}
+
+#hearken-embed-module-9419-14267   .question-list--selected .question--selected .vote-icon__circle {
+    fill:#FFFFFF !important;
+}
+
+#hearken-embed-module-9419-14267  .question--voteable:hover .vote-icon__checkmark {
+    stroke:#3B94FF !important;
+}
+
+#hearken-embed-module-9419-14267   .question-list--selected .question--selected .vote-icon__checkmark {
+    stroke:#3B94FF !important;
+}
+
+#hearken-embed-module-9419-14267  .checkbox {
+    color:#425568 !important;
+    margin:10px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .checkbox__text {
+    margin:0px 5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .checkbox__text div {
+    display:inline !important;
+}
+
+#hearken-embed-module-9419-14267  .checkbox__text p {
+    display:inline !important;
+}
+
+#hearken-embed-module-9419-14267  .bar-graphs-container {
+    padding-bottom:10px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .bar-graph {
+    margin-top:5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .bar-graph__bar {
+    width:100% !important;
+    height:15px !important;
+    position:relative !important;
+    background-color:#C9C9C9 !important;
+    margin-bottom:2px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .bar-graph__bar-fill {
+    height:15px !important;
+    display:inline-block !important;
+    position:absolute !important;
+    top:0px !important;
+    background-color:#425568 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .legend__question-text {
+    width:80% !important;
+    display:inline-block !important;
+    color:#425568 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    white-space:nowrap !important;
+    overflow:hidden !important;
+    text-overflow:ellipsis !important;
+}
+
+#hearken-embed-module-9419-14267  .legend__question-percent {
+    width:20% !important;
+    display:inline-block !important;
+    color:#425568 !important;
+    text-align:end !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    white-space:nowrap !important;
+    overflow:hidden !important;
+    text-overflow:ellipsis !important;
+}
+
+#hearken-embed-module-9419-14267  .bar-graph__bar-fill.bar-graph__bar-fill--voted-for {
+    background-color:#3B94FF !important;
+}
+
+#hearken-embed-module-9419-14267  .legend__question-text--voted-for {
+    color:#3B94FF !important;
+}
+
+#hearken-embed-module-9419-14267  .legend__question-percent--voted-for {
+    color:#3B94FF !important;
+}
+
+#hearken-embed-module-9419-14267  .social-buttons-container {
+    padding:10px 0px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .footer {
+    color:#425568 !important;
+    background-color:#efefef !important;
+    padding:15px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .footer--text {
+    color:#425568 !important;
+    background-color:#efefef !important;
+    padding:0px 15px 15px !important;
+    padding-left:15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .footer--image {
+    padding:0px 0px 15px !important;
+    background-color:#efefef !important;
+}
+
+#hearken-embed-module-9419-14267  .footer--image__image {
+    display:block !important;
+    width:100% !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .hearken-badge {
+    background-color:#efefef !important;
+    padding:12px 15px !important;
+    color:#694E5F !important;
+    text-align:end !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9419-14267  .recaptcha-badge {
+    background-color:inherit !important;
+    color:inherit !important;
+    text-align:start !important;
+    padding:5px 5px !important;
+    font-size:10px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:9.744px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9419-14267  .hearken-badge__link {
+    color:#694E5F !important;
+    text-decoration:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input {
+    border:1px solid #694E5F !important;
+    padding:11px 13px !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input__label {
+    color:#425568 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input__error-label {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input+.select-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input:focus {
+    border-color:#52A3EC !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input:hover>.select-input__icon {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    color:#52A3EC !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input__input {
+    appearance:none !important;
+    -webkit-appearance:none !important;
+    border:0 !important;
+    text-align:left !important;
+    width:100% !important;
+    outline:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input {
+    background-color:#FFFFFF !important;
+    position:relative !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input:focus-within {
+    background-color:#FFFFFF !important;
+    position:relative !important;
+    outline:auto 5px -webkit-focus-ring-color !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input__icon {
+    position:absolute !important;
+    top:12px !important;
+    right:10px !important;
+    width:15px !important;
+    height:15px !important;
+    pointer-events:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input:hover>.select-input__icon {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    color:#52A3EC !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input--container+.select-input--container {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9419-14267  .select-input--container+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9419-14267  .text-input+.select-input--container {
+    margin-top:8px !important;
+}We write for you. Did you find this article helpful? Please share your feedback with us below0/250Your contact infoWe'll be in touch if we look into your submission. Was this article helpful? YesNoSign me up for Our Burning Planet newsletter!
+Please don't publish my name
+I am over 16 years old
+I accept the Terms of Service
+SubmitPowered by Hearken | Terms of Service | Privacy Policy Sign me up for Our Burning Planet newsletter! Please don't publish my name I am over 16 years old I accept the Terms of Service
