@@ -1,0 +1,1197 @@
+In 2019, the World Health Organization (WHO) hailed the results of a candidate tuberculosis (TB) vaccine as a major scientific breakthrough. But years later we are not much closer to seeing the vaccine. Why do TB vaccines take so long to develop compared to Covid vaccines? Trials of the vaccine, developed by GlaxoSmithKline and named M72/AS01E (M72), among more than 3,500 people suggested that two doses reduced the development of pulmonary TB disease by half. In South Africa alone, such a vaccine would save tens of thousands of lives each year, and save billions of rands in direct and indirect costs from the disease. Between 2016 and 2018, it was our leading natural cause of death — an average of 29,000 deaths over those years according to Statistics South Africa, though the WHO’s estimates are double that number. Globally, in 2020, the WHO estimated that 1.5-million people died from TB and nearly six million people fell ill with the disease or had a relapse. Effective Covid vaccines were developed, tested, and used within a year of the disease’s appearance. So why are we still waiting for M72’s next step? A further large trial is needed to confirm the safety and efficacy of the M72 vaccine so that it can be approved by regulatory authorities. But this trial has not yet begun. The TB trial process take much longer than for Covid in part because TB is a slower moving disease. TB takes years for an infection to turn into the deadly disease that affects the lungs of the patient. This factor alone would justify the slowness if TB only emerged in recent years — but this disease has been around for thousands of years. The biggest impediment to faster progress is that investment in TB research is puny compared to the need. It’s taking a long time to bring M72 to patients. Research on the vaccine started in the 1990s. The first small clinical trials, held from 2008 and results published in 2013, found that the vaccine was safe and seemed to work well. Further small trials in Cape Town, Switzerland and India pointed the way to further trials. Then in 2014-5 over 3,500 participants across Kenya, South Africa and Zambia, took part in a new trial. Results published in 2018, found that the vaccine has 54% protection against active pulmonary TB disease. But TB vaccine results are a waiting game — enough time has to pass for the researchers to be assured that the vaccine offers lasting protection. This arrived with the final analysis published in 2019, which looked at how the vaccine performed three years after it was administered. In the group that received the vaccine, there were 11 cases in South Africa, two in Kenya, and none in Zambia. In those that received the placebo, there were 24 cases in South Africa, one in Kenya and one in Zambia. This was the first candidate vaccine to show protection against TB disease in a population that was sensitised to TB. M72 meets the criteria set up by the WHO, which include: The WHO is not targeting the prevention of TB infection, which might be latent (a person is infected, but not sick or contagious), but of the disease itself. Latent TB is common in South Africa — between 34% to 88% of all people. [insert video] The WHO’s End TB strategy, endorsed by the World Health Assembly in 2014, aimed to reduce TB deaths by 95% and TB disease by 90% by 2035, compared to 2015 figures. At the moment the only vaccine is the BCG vaccine, developed in 1921 by Albert Calmette and Camille Guérin. BCG is administered to infants in South Africa and has saved many from TB. But it only offers protection for at most 15 to 20 years, with no booster shots available, and offers little protection to adults. At a meeting in Switzerland on 5 April 2019 hosted by the WHO, Dr Thomas Breuer of GlaxoSmithKline said the company intended to maintain proprietary control over AS01E, one of the key ingredients (see grey box) of the vaccine. And, he said, without external funds, the company would not be able to produce enough of this ingredient for M72, which is also used in a candidate vaccine against malaria. Finally, in January 2020, more than a decade after the first clinical trial, GlaxoSmithKline licensed the vaccine to the Bill and Melinda Gates Medical Research Institute (Gates MRI), a subsidiary of the Bill and Melinda Gates Foundation. The institute’s goal in taking over the licence was to distribute the vaccine to low- and middle-income countries with high rates of TB. Under this licence, the Gates MRI would lead vaccine candidate development and sponsor future clinical trials. But according to a presentation on M72 from the Gates MRI published in 2021, a lot of work is still needed before new clinical trials can start. These trials are now due to begin in 2023. Meanwhile, a trial of M72 on people living with HIV in South Africa began in 2020. Also, a massive observational epidemiology study which began in December 2021 is also underway. But neither of these is likely to lead to regulatory approval of the vaccine. The trial for that is only due to begin next year. According to the Gates institute, this trial will take at least five years, and maybe even seven. About 20,000 people in sites across the world will be required — and will take massive funding, which Gates has guaranteed. M72 is not the only vaccine being tested: the Gates institute is conducting trials for revaccination with BCG, due to end in 2026, and according to a 2021 report by the Treatment Action Group (TAG, a US-based organisation unrelated to South Africa’s Treatment Action Campaign), six other vaccines are currently in or about to start final trials. But the Gates institute is concerned that these are not enough. Ideally, there should be many more candidate vaccines coming through and the institute is working with researchers in the field. It is possible that the triumph of mRNA vaccines for the prevention of severe Covid disease and death might find an application in TB vaccines. But none of the TB vaccines in phased trials are mRNA vaccines. BioNTech, which developed the Pfizer Covid vaccine, announced in 2019 that it had received an equity investment of $55-million from the Gates Foundation to use its technology to work on a TB vaccine as well as on HIV medications. And in July 2021, the company announced that clinical trials would begin this year. According to TAG, global TB funding in 2020, at $915-million, was less than half of the $2-billion United Nations target. One funder, in particular, is carrying the load — the Gates Foundation accounted for 94% of the philanthropic spending on TB, which accounts for 15% of all funding. TAG further estimates that an additional $10-billion is required to cover the shortfall in TB research and development. By contrast, governments spent $104-billion on Covid vaccines and therapeutics in the first 11 months of the pandemic. Whatever ultimately ends TB will take time. The M72 vaccine was developed by GlaxoSmithKline and clinical testing was conducted in partnership with Aeras, a non-profit biotech company. The vaccine uses an adjuvant, the AS01E adjuvant system. Adjuvants are used to improve the efficacy of a vaccine by making the immune system recognise specific antigens better. AS01E was also first developed in the 1990s and contains two immunostimulants: MPL and QS-21, which is derived from the Chilean soap bark tree. AS01E is also used in candidate malaria vaccines, among others. This ingredient is combined with a recombinant fusion protein derived from two Mycobacterium tuberculosis antigens (Mtb32A and Mtb39A). Work on these antigens stretches back to the 1990s. DM First published by GroundUp. <img style="display: none; width: 1px;" src="https://thirdpartyhits.groundup.org.za/counter/hit/dailymaverick/2022-05-09-this-vaccine-could-save-tens-thousands-lives-in-south-africa-each-year-but-well-only-see-it-in-2030/" alt="" />  /*!
+* CleanSlate
+*   github.com/premasagar/cleanslate
+*
+*//*
+    An extreme CSS reset stylesheet, for normalising the styling of a container element and its children.
+
+    by Premasagar Rose
+        dharmafly.com
+
+    license
+        opensource.org/licenses/mit-license.php
+
+    **
+
+    v0.10.1
+
+*/
+
+/* == BLANKET RESET RULES == */
+
+/* HTML 4.01 */
+.cleanslate h1, .cleanslate h2, .cleanslate h3, .cleanslate h4, .cleanslate h5, .cleanslate h6, .cleanslate p, .cleanslate td, .cleanslate dl, .cleanslate tr, .cleanslate dt, .cleanslate ol, .cleanslate form, .cleanslate select, .cleanslate option, .cleanslate pre, .cleanslate div, .cleanslate table,  .cleanslate th, .cleanslate tbody, .cleanslate tfoot, .cleanslate caption, .cleanslate thead, .cleanslate ul, .cleanslate li, .cleanslate address, .cleanslate blockquote, .cleanslate dd, .cleanslate fieldset, .cleanslate li, .cleanslate NO-iframe, .cleanslate strong, .cleanslate legend, .cleanslate em, .cleanslate summary, .cleanslate cite, .cleanslate span, .cleanslate input, .cleanslate sup, .cleanslate label, .cleanslate dfn, .cleanslate object, .cleanslate big, .cleanslate q, .cleanslate samp, .cleanslate acronym, .cleanslate small, .cleanslate img, .cleanslate strike, .cleanslate code, .cleanslate sub, .cleanslate ins, .cleanslate textarea, .cleanslate button, .cleanslate var, .cleanslate a, .cleanslate abbr, .cleanslate applet, .cleanslate del, .cleanslate kbd, .cleanslate tt, .cleanslate b, .cleanslate i, .cleanslate hr,
+
+/* HTML5 - Sept 2013 taken from MDN https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list */
+.cleanslate article, .cleanslate aside, .cleanslate figure, .cleanslate figcaption, .cleanslate footer, .cleanslate header, .cleanslate menu, .cleanslate nav, .cleanslate section, .cleanslate time, .cleanslate mark, .cleanslate audio, .cleanslate video, .cleanslate abbr, .cleanslate address, .cleanslate area, .cleanslate blockquote, .cleanslate canvas, .cleanslate caption, .cleanslate cite, .cleanslate code, .cleanslate colgroup, .cleanslate col, .cleanslate datalist, .cleanslate fieldset, .cleanslate main, .cleanslate map, .cleanslate meta, .cleanslate optgroup, .cleanslate output, .cleanslate progress {
+    background-attachment:scroll !important;
+    background-color:transparent !important;
+    background-image:none !important; /* This rule affects the use of pngfix JavaScript http://dillerdesign.com/experiment/DD_BelatedPNG for IE6, which is used to force the browser to recognise alpha-transparent PNGs files that replace the IE6 lack of PNG transparency. (The rule overrides the VML image that is used to replace the given CSS background-image). If you don't know what that means, then you probably haven't used the pngfix script, and this comment may be ignored :) */
+    background-position:0 0 !important;
+    background-repeat:repeat !important;
+    border-color:black !important;
+    border-color:currentColor !important; /* `border-color` should match font color. Modern browsers (incl. IE9) allow the use of "currentColor" to match the current font 'color' value <http://www.w3.org/TR/css3-color/#currentcolor>. For older browsers, a default of 'black' is given before this rule. Guideline to support older browsers: if you haven't already declared a border-color for an element, be sure to do so, e.g. when you first declare the border-width. */
+    border-radius:0 !important;
+    border-style:none !important;
+    border-width:medium !important;
+    bottom:auto !important;
+    clear:none !important;
+    clip:auto !important;
+    color:inherit !important;
+    counter-increment:none !important;
+    counter-reset:none !important;
+    cursor:auto !important;
+    direction:inherit !important;
+    display:inline !important;
+    float:none !important;
+    font-family: inherit !important; /* As with other inherit values, this needs to be set on the root container element */
+    font-size: inherit !important;
+    font-style:inherit !important;
+    font-variant:normal !important;
+    font-weight:normal !important;
+    height:auto !important;
+    left:auto !important;
+    letter-spacing:normal !important;
+    line-height:inherit !important;
+    list-style-type: inherit !important; /* Could set list-style-type to none */
+    list-style-position: outside !important;
+    list-style-image: none !important;
+    margin:0 !important;
+    max-height:none !important;
+    max-width:none !important;
+    min-height:0 !important;
+    min-width:0 !important;
+    opacity:1;
+    outline:invert none medium !important;
+    overflow:visible !important;
+    padding:0 !important;
+    position:static !important;
+    quotes: "" "" !important;
+    right:auto !important;
+    table-layout:auto !important;
+    text-align:inherit !important;
+    text-decoration:inherit !important;
+    text-indent:0 !important;
+    text-transform:none !important;
+    top:auto !important;
+    unicode-bidi:normal !important;
+    vertical-align:baseline !important;
+    visibility:inherit !important;
+    white-space:normal !important;
+    width:auto !important;
+    word-spacing:normal !important;
+    z-index:auto !important;
+
+    /* CSS3 */
+    /* Including all prefixes according to http://caniuse.com/ */
+    /* CSS Animations don't cascade, so don't require resetting */
+    -webkit-background-origin: padding-box !important;
+            background-origin: padding-box !important;
+    -webkit-background-clip: border-box !important;
+            background-clip: border-box !important;
+    -webkit-background-size: auto !important;
+       -moz-background-size: auto !important;
+            background-size: auto !important;
+    -webkit-border-image: none !important;
+       -moz-border-image: none !important;
+         -o-border-image: none !important;
+            border-image: none !important;
+    -webkit-border-radius:0 !important;
+       -moz-border-radius:0 !important;
+            border-radius: 0 !important;
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+    -webkit-box-sizing: content-box !important;
+       -moz-box-sizing: content-box !important;
+            box-sizing: content-box !important;
+    -webkit-column-count: auto !important;
+       -moz-column-count: auto !important;
+            column-count: auto !important;
+    -webkit-column-gap: normal !important;
+       -moz-column-gap: normal !important;
+            column-gap: normal !important;
+    -webkit-column-rule: medium none black !important;
+       -moz-column-rule: medium none black !important;
+            column-rule: medium none black !important;
+    -webkit-column-span: 1 !important;
+       -moz-column-span: 1 !important; /* doesn't exist yet but probably will */
+            column-span: 1 !important;
+    -webkit-column-width: auto !important;
+       -moz-column-width: auto !important;
+            column-width: auto !important;
+    font-feature-settings: normal !important;
+    overflow-x: visible !important;
+    overflow-y: visible !important;
+    -webkit-hyphens: manual !important;
+       -moz-hyphens: manual !important;
+            hyphens: manual !important;
+    -webkit-perspective: none !important;
+       -moz-perspective: none !important;
+        -ms-perspective: none !important;
+         -o-perspective: none !important;
+            perspective: none !important;
+    -webkit-perspective-origin: 50% 50% !important;
+       -moz-perspective-origin: 50% 50% !important;
+        -ms-perspective-origin: 50% 50% !important;
+         -o-perspective-origin: 50% 50% !important;
+            perspective-origin: 50% 50% !important;
+    -webkit-backface-visibility: visible !important;
+       -moz-backface-visibility: visible !important;
+        -ms-backface-visibility: visible !important;
+         -o-backface-visibility: visible !important;
+            backface-visibility: visible !important;
+    text-shadow: none !important;
+    -webkit-transition: all 0s ease 0s !important;
+            transition: all 0s ease 0s !important;
+    -webkit-transform: none !important;
+       -moz-transform: none !important;
+        -ms-transform: none !important;
+         -o-transform: none !important;
+            transform: none !important;
+    -webkit-transform-origin: 50% 50% !important;
+       -moz-transform-origin: 50% 50% !important;
+        -ms-transform-origin: 50% 50% !important;
+         -o-transform-origin: 50% 50% !important;
+            transform-origin: 50% 50% !important;
+    -webkit-transform-style: flat !important;
+       -moz-transform-style: flat !important;
+        -ms-transform-style: flat !important;
+         -o-transform-style: flat !important;
+            transform-style: flat !important;
+    word-break: normal !important;
+}
+
+/* == BLOCK-LEVEL == */
+/* Actually, some of these should be inline-block and other values, but block works fine (TODO: rigorously verify this) */
+/* HTML 4.01 */
+.cleanslate, .cleanslate h3, .cleanslate h5, .cleanslate p, .cleanslate h1, .cleanslate dl, .cleanslate dt, .cleanslate h6, .cleanslate ol, .cleanslate form, .cleanslate option, .cleanslate pre, .cleanslate div, .cleanslate h2, .cleanslate caption, .cleanslate h4, .cleanslate ul, .cleanslate address, .cleanslate blockquote, .cleanslate dd, .cleanslate fieldset, .cleanslate hr,
+
+/* HTML5 new elements */
+.cleanslate article, .cleanslate dialog, .cleanslate figure, .cleanslate footer, .cleanslate header, .cleanslate hgroup, .cleanslate menu, .cleanslate nav, .cleanslate section, .cleanslate audio, .cleanslate video, .cleanslate address, .cleanslate blockquote, .cleanslate colgroup, .cleanslate main, .cleanslate progress, .cleanslate summary {
+    display:block !important;
+}
+.cleanslate h1, .cleanslate h2, .cleanslate h3, .cleanslate h4, .cleanslate h5, .cleanslate h6 {
+    font-weight: bold !important;
+}
+.cleanslate h1 {
+    font-size: 2em !important;
+    padding: .67em 0 !important;
+}
+.cleanslate h2 {
+    font-size: 1.5em !important;
+    padding: .83em 0 !important;
+}
+.cleanslate h3 {
+    font-size: 1.17em !important;
+    padding: .83em 0 !important;
+}
+.cleanslate h4 {
+    font-size: 1em !important;
+}
+.cleanslate h5 {
+    font-size: .83em !important;
+}
+.cleanslate p {
+    margin: 0 !important;
+}
+.cleanslate p+p {
+    margin-top: 1em !important;
+}
+.cleanslate table {
+    display: table !important;
+}
+.cleanslate thead {
+    display: table-header-group !important;
+}
+.cleanslate tbody {
+    display: table-row-group !important;
+}
+.cleanslate tfoot {
+    display: table-footer-group !important;
+}
+.cleanslate tr {
+    display: table-row !important;
+}
+.cleanslate th, .cleanslate td {
+    display: table-cell !important;
+    padding: 2px !important;
+}
+
+/* == SPECIFIC ELEMENTS == */
+/* Some of these are browser defaults; some are just useful resets */
+.cleanslate ol, .cleanslate ul {
+    margin: 1em 0 !important;
+}
+.cleanslate ul li, .cleanslate ul ul li, .cleanslate ul ul ul li, .cleanslate ol li, .cleanslate ol ol li, .cleanslate ol ol ol li, .cleanslate ul ol ol li, .cleanslate ul ul ol li, .cleanslate ol ul ul li, .cleanslate ol ol ul li {
+    list-style-position: inside !important;
+    margin-top: .08em !important;
+}
+.cleanslate ol ol, .cleanslate ol ol ol, .cleanslate ul ul, .cleanslate ul ul ul, .cleanslate ol ul, .cleanslate ol ul ul, .cleanslate ol ol ul, .cleanslate ul ol, .cleanslate ul ol ol, .cleanslate ul ul ol {
+    padding-left: 40px !important;
+    margin: 0 !important;
+}
+/* helper for general navigation */
+.cleanslate nav ul, .cleanslate nav ol {
+    list-style-type:none !important;
+
+}
+.cleanslate ul, .cleanslate menu {
+    list-style-type:disc !important;
+}
+.cleanslate ol {
+    list-style-type:decimal !important;
+}
+.cleanslate ol ul, .cleanslate ul ul, .cleanslate menu ul, .cleanslate ol menu, .cleanslate ul menu, .cleanslate menu menu {
+    list-style-type:circle !important;
+}
+.cleanslate ol ol ul, .cleanslate ol ul ul, .cleanslate ol menu ul, .cleanslate ol ol menu, .cleanslate ol ul menu, .cleanslate ol menu menu, .cleanslate ul ol ul, .cleanslate ul ul ul, .cleanslate ul menu ul, .cleanslate ul ol menu, .cleanslate ul ul menu, .cleanslate ul menu menu, .cleanslate menu ol ul, .cleanslate menu ul ul, .cleanslate menu menu ul, .cleanslate menu ol menu, .cleanslate menu ul menu, .cleanslate menu menu menu {
+    list-style-type:square !important;
+}
+.cleanslate li {
+    display:list-item !important;
+    /* Fixes IE7 issue with positioning of nested bullets */
+    min-height:auto !important;
+    min-width:auto !important;
+    padding-left: 20px !important; /* replace -webkit-padding-start: 40px; */
+}
+.cleanslate strong {
+    font-weight:bold !important;
+}
+.cleanslate em {
+    font-style:italic !important;
+}
+.cleanslate kbd, .cleanslate samp, .cleanslate code, .cleanslate pre {
+  font-family:monospace !important;
+}
+.cleanslate a {
+    color: blue !important;
+    text-decoration: underline !important;
+}
+.cleanslate a:visited {
+    color: #529 !important;
+}
+.cleanslate a, .cleanslate a *, .cleanslate input[type=submit], .cleanslate input[type=button], .cleanslate input[type=radio], .cleanslate input[type=checkbox], .cleanslate select, .cleanslate button {
+    cursor:pointer !important;
+}
+.cleanslate button, .cleanslate input[type=submit] {
+    text-align: center !important;
+    padding: 2px 6px 3px !important;
+    border-radius: 4px !important;
+    text-decoration: none !important;
+    font-family: arial, helvetica, sans-serif !important;
+    font-size: small !important;
+    background: white !important;
+    -webkit-appearance: push-button !important;
+    color: buttontext !important;
+    border: 1px #a6a6a6 solid !important;
+    background: lightgrey !important; /* Old browsers */
+    background: rgb(255,255,255); /* Old browsers */
+}
+.cleanslate button:active, .cleanslate input[type=submit]:active, .cleanslate input[type=button]:active, .cleanslate button:active {
+background: rgb(59,103,158) !important; /* Old browsers */
+border-color: #5259b0 !important;
+}
+.cleanslate button {
+    padding: 1px 6px 2px 6px !important;
+    margin-right: 5px !important;
+}
+.cleanslate input[type=hidden] {
+    display:none !important;
+}
+/* restore form defaults */
+.cleanslate textarea {
+    -webkit-appearance: textarea !important;
+    background: white !important;
+    padding: 0 !important;
+    margin-left: 0 !important;
+    word-wrap: break-word !important;
+    white-space: pre-wrap !important;
+    font-size: 11px !important;
+    font-family: arial, helvetica, sans-serif !important;
+    line-height: 13px !important;
+    resize: both !important;
+}
+.cleanslate select, .cleanslate textarea, .cleanslate input {
+    border:1px solid #ccc !important;
+}
+.cleanslate select {
+    font-size: 11px !important;
+    font-family: helvetica, arial, sans-serif !important;
+    display: inline-block;
+}
+.cleanslate textarea:focus, .cleanslate input:focus {
+    outline: auto 5px -webkit-focus-ring-color !important;
+}
+
+.cleanslate textarea::placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea::-webkit-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea::-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea:-ms-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea:-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate input::placeholder { color: #a9a9a9 !important; }
+.cleanslate input::-webkit-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate input::-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate input:-ms-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate input:-moz-placeholder { color: #a9a9a9 !important; }
+
+.cleanslate input[type=text] {
+    background: white !important;
+    padding: 1px !important;
+    font-family: initial !important;
+    font-size: small !important;
+}
+.cleanslate input[type=checkbox], .cleanslate input[type=radio] {
+    border: 1px #2b2b2b solid !important;
+    border-radius: 4px !important;
+}
+.cleanslate input[type=checkbox] {
+    -webkit-appearance: checkbox !important;
+    -moz-appearance: checkbox !important;
+    appearance: checkbox !important;
+}
+.cleanslate input[type=radio] {
+    margin: 2px 2px 3px 2px !important;
+}
+.cleanslate abbr[title], .cleanslate acronym[title], .cleanslate dfn[title] {
+    cursor:help !important;
+    border-bottom-width:1px !important;
+    border-bottom-style:dotted !important;
+}
+.cleanslate ins {
+    background-color:#ff9 !important;
+    color:black !important;
+}
+.cleanslate del {
+    text-decoration: line-through !important;
+}
+.cleanslate blockquote, .cleanslate q  {
+    quotes:none !important; /* HTML5 */
+}
+.cleanslate blockquote:before, .cleanslate blockquote:after, .cleanslate q:before, .cleanslate q:after, .cleanslate li:before, .cleanslate li:after  {
+    content:"" !important;
+}
+.cleanslate input, .cleanslate select {
+    vertical-align:middle !important;
+}
+
+.cleanslate table {
+    border-collapse:collapse !important;
+    border-spacing:0 !important;
+}
+.cleanslate hr {
+    display:block !important;
+    height:1px !important;
+    border:0 !important;
+    border-top:1px solid #ccc !important;
+    margin:1em 0 !important;
+}
+.cleanslate *[dir=rtl] {
+    direction: rtl !important;
+}
+.cleanslate mark {
+    background-color:#ff9 !important;
+    color:black !important;
+    font-style:italic !important;
+    font-weight:bold !important;
+}
+.cleanslate menu {
+    padding-left: 40px !important;
+    padding-top: 8px !important;
+}
+
+/* additional helpers */
+.cleanslate [hidden],
+.cleanslate template {
+    display: none !important;
+}
+.cleanslate abbr[title] {
+    border-bottom: 1px dotted !important;
+}
+.cleanslate sub, .cleanslate sup {
+    font-size: 75% !important;
+    line-height: 0 !important;
+    position: relative !important;
+    vertical-align: baseline !important;
+}
+.cleanslate sup {
+    top: -0.5em !important;
+}
+.cleanslate sub {
+    bottom: -0.25em !important;
+}
+.cleanslate img {
+    border: 0 !important;
+}
+.cleanslate figure {
+    margin: 0 !important;
+}
+.cleanslate textarea {
+    overflow: auto !important;
+    vertical-align: top !important;
+}
+
+/* == ROOT CONTAINER ELEMENT == */
+/* This contains default values for child elements to inherit  */
+.cleanslate {
+    font-size: medium !important;
+    line-height: 1 !important;
+    direction: inherit !important;
+    text-align: left !important; /* for IE, Opera */
+    text-align: start !important; /* recommended W3C Spec */
+    font-family: "Times New Roman", Times, serif !important; /* Override this with whatever font-family is required */
+    color: black !important;
+    font-style:normal !important;
+    font-weight:normal !important;
+    text-decoration:none !important;
+    list-style-type:disc !important;
+}
+
+.cleanslate pre {
+    white-space:pre !important;
+}
+
+    .cleanslate .share-buttons {
+      text-align: center !important;
+    }
+    .cleanslate .fb-share-button.fb_iframe_widget
+    {
+      display: inline-block !important;
+      vertical-align: top !important;
+      width: 76px !important;
+    }
+    .cleanslate .fb-share-button.fb_iframe_widget iframe {
+      margin-left: -40px;
+    }
+
+    
+    .hearken-app .cleanslate .share-buttons {
+      width: 100% !important;
+      height: 27px !important;
+      background-size: auto 100% !important;
+      background-position: center !important;
+      background-image: url("/img/social_button_placeholders.png") !important;
+      background-repeat: no-repeat !important;
+    }
+    .hearken-app .cleanslate .share-buttons:hover {
+      cursor: not-allowed !important;
+    }
+    .grecaptcha-badge { visibility: hidden; }#multiselectInputauto_assign_to {
+    padding:8px 0px 0px;
+    margin:0px;
+}
+
+#hearken-embed-module-9472-1214b  a {
+    color:#003CFF !important;
+}
+
+#hearken-embed-module-9472-1214b  .header--text {
+    background-color:#3B94FF !important;
+    color:#ffffff !important;
+    text-align:center !important;
+    padding:16px 16px !important;
+    font-weight:800 !important;
+    font-size:15px !important;
+    line-height:18px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .header--image__image {
+    display:block !important;
+    width:100% !important;
+    background-color:#3B94FF !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .embed-content-container {
+    background-color:#efefef !important;
+    padding:15px 15px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .section-header-group {
+    background-color:#efefef !important;
+    padding:0px 0px 15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .section-header-group__section-header {
+    background-color:#efefef !important;
+    color:#425568 !important;
+    padding:0px 0px 0px !important;
+    font-weight:800 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-1214b  .section-header-group__section-subheader {
+    background-color:#efefef !important;
+    color:#425568 !important;
+    padding:5px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input--error+.text-input--error {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input+.text-input--error {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input--error+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1214b  .input-threeup-leading>.text-input {
+    padding-right:7px !important;
+}
+
+#hearken-embed-module-9472-1214b  .input-threeup-following>.text-input {
+    padding-left:7px !important;
+}
+
+#hearken-embed-module-9472-1214b  .input-threeup-leading {
+    margin-top:8px !important;
+    width:33.3% !important;
+    display:inline-block !important;
+}
+
+#hearken-embed-module-9472-1214b  .input-threeup-following {
+    margin-top:8px !important;
+    width:33.3% !important;
+    display:inline-block !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input__input {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #694E5F !important;
+    display:block !important;
+    width:100% !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input__input::placeholder {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9472-1214b   .text-input--error::placeholder {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9472-1214b    {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input__input:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input--error__input:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input__label {
+    color:#425568 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input--error__input {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #DD0000 !important;
+    display:block !important;
+    width:100% !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input--error__label {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .long-text-input-container {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    margin-bottom:15px !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input--long {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #694E5F !important;
+    display:block !important;
+    resize:none !important;
+    width:100% !important;
+    height:100px !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input--long:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input--long--error {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #DD0000 !important;
+    display:block !important;
+    resize:none !important;
+    width:100% !important;
+    height:100px !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .input-error-message {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .validation-error {
+    background-color:#DD0000 !important;
+    color:#FFFFFF !important;
+    padding:10px 15px !important;
+    margin-bottom:15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .character-counter {
+    color:#694E5F !important;
+    margin-top:3px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-1214b  .button {
+    background:#FFC90E !important;
+    color:#000000 !important;
+    border:0 !important;
+    border-radius:0 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-1214b  .button:hover {
+    background:#FFC90E !important;
+    color:#000000 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    cursor:pointer !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-1214b  .button--inactive {
+    background:#DDDDDD !important;
+    border:0 !important;
+    border-radius:0 !important;
+    color:#000000 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-1214b  .button-container {
+    width:100% !important;
+    text-align:center !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .question-list {
+    background-color:#efefef !important;
+    padding:0px 0px !important;
+    max-height:500px !important;
+    overflow:auto !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .question+.question {
+    margin-top:1px !important;
+}
+
+#hearken-embed-module-9472-1214b  .question {
+    background-color:#ffffff !important;
+    padding:12px 15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .question__question-text {
+    color:#425568 !important;
+    cursor:inherit !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .question__question-asker {
+    color:#694E5F !important;
+    margin-top:5px !important;
+    cursor:inherit !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-1214b  .question--voteable {
+    margin-top:5px !important;
+    -webkit-appearance:none !important;
+    margin-right:0 !important;
+    background:#FFFFFF !important;
+    padding:8px 8px !important;
+    text-align:left !important;
+    border:0 !important;
+    border-radius:0 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .question--selected {
+    margin-top:5px !important;
+    -webkit-appearance:none !important;
+    margin-right:0 !important;
+    background:#3B94FF !important;
+    padding:8px 8px !important;
+    text-align:left !important;
+    border:0 !important;
+    border-radius:0 !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .question--voteable:hover {
+    background:#3B94FF !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b   .question-list--selected .question--selected {
+    background:#3B94FF !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .votable-question-details {
+    cursor:inherit !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+    padding:0px 10px !important;
+    width:549px !important;
+}
+
+#hearken-embed-module-9472-1214b  .selected-question-details {
+    cursor:inherit !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+    color:#FFFFFF !important;
+    padding:0px 10px !important;
+    width:549px !important;
+}
+
+#hearken-embed-module-9472-1214b  .vote-icon {
+    color:#425568 !important;
+    cursor:inherit !important;
+    width:44px !important;
+    height:44px !important;
+    overflow:hidden !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+}
+
+#hearken-embed-module-9472-1214b  .vote-icon__circle {
+    fill:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1214b  .question--voteable:hover .question__question-text {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1214b  .question--selected .question__question-text {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1214b  .question--voteable:hover .question__question-asker {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1214b  .question--selected .question__question-asker {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1214b  .question--voteable:hover .vote-icon__circle {
+    fill:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1214b   .question-list--selected .question--selected .vote-icon__circle {
+    fill:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1214b  .question--voteable:hover .vote-icon__checkmark {
+    stroke:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1214b   .question-list--selected .question--selected .vote-icon__checkmark {
+    stroke:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1214b  .checkbox {
+    color:#425568 !important;
+    margin:10px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .checkbox__text {
+    margin:0px 5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .checkbox__text div {
+    display:inline !important;
+}
+
+#hearken-embed-module-9472-1214b  .checkbox__text p {
+    display:inline !important;
+}
+
+#hearken-embed-module-9472-1214b  .bar-graphs-container {
+    padding-bottom:10px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .bar-graph {
+    margin-top:5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .bar-graph__bar {
+    width:100% !important;
+    height:15px !important;
+    position:relative !important;
+    background-color:#C9C9C9 !important;
+    margin-bottom:2px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .bar-graph__bar-fill {
+    height:15px !important;
+    display:inline-block !important;
+    position:absolute !important;
+    top:0px !important;
+    background-color:#425568 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .legend__question-text {
+    width:80% !important;
+    display:inline-block !important;
+    color:#425568 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    white-space:nowrap !important;
+    overflow:hidden !important;
+    text-overflow:ellipsis !important;
+}
+
+#hearken-embed-module-9472-1214b  .legend__question-percent {
+    width:20% !important;
+    display:inline-block !important;
+    color:#425568 !important;
+    text-align:end !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    white-space:nowrap !important;
+    overflow:hidden !important;
+    text-overflow:ellipsis !important;
+}
+
+#hearken-embed-module-9472-1214b  .bar-graph__bar-fill.bar-graph__bar-fill--voted-for {
+    background-color:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1214b  .legend__question-text--voted-for {
+    color:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1214b  .legend__question-percent--voted-for {
+    color:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1214b  .social-buttons-container {
+    padding:10px 0px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .footer {
+    color:#425568 !important;
+    background-color:#efefef !important;
+    padding:15px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .footer--text {
+    color:#425568 !important;
+    background-color:#efefef !important;
+    padding:0px 15px 15px !important;
+    padding-left:15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .footer--image {
+    padding:0px 0px 15px !important;
+    background-color:#efefef !important;
+}
+
+#hearken-embed-module-9472-1214b  .footer--image__image {
+    display:block !important;
+    width:100% !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .hearken-badge {
+    background-color:#efefef !important;
+    padding:12px 15px !important;
+    color:#694E5F !important;
+    text-align:end !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-1214b  .recaptcha-badge {
+    background-color:inherit !important;
+    color:inherit !important;
+    text-align:start !important;
+    padding:5px 5px !important;
+    font-size:10px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:9.744px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-1214b  .hearken-badge__link {
+    color:#694E5F !important;
+    text-decoration:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input {
+    border:1px solid #694E5F !important;
+    padding:11px 13px !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input__label {
+    color:#425568 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input__error-label {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input+.select-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input:focus {
+    border-color:#52A3EC !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input:hover>.select-input__icon {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input__input {
+    appearance:none !important;
+    -webkit-appearance:none !important;
+    border:0 !important;
+    text-align:left !important;
+    width:100% !important;
+    outline:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input {
+    background-color:#FFFFFF !important;
+    position:relative !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input:focus-within {
+    background-color:#FFFFFF !important;
+    position:relative !important;
+    outline:auto 5px -webkit-focus-ring-color !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input__icon {
+    position:absolute !important;
+    top:12px !important;
+    right:10px !important;
+    width:15px !important;
+    height:15px !important;
+    pointer-events:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input:hover>.select-input__icon {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input--container+.select-input--container {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1214b  .select-input--container+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1214b  .text-input+.select-input--container {
+    margin-top:8px !important;
+}0/200Your contact infoWe'll be in touch if we look into your feedbackSign me up for Your Questions Answered newsletter!
+Please don't publish my name
+I am over 16 years old
+I accept the Terms of Service
+SubmitPowered by Hearken | Terms of Service | Privacy Policy Sign me up for Your Questions Answered newsletter! Please don't publish my name I am over 16 years old I accept the Terms of Service
