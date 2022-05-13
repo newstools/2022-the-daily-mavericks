@@ -1,0 +1,1205 @@
+For decades, experts suspected the existence of a supermassive black hole at the centre of our galaxy, but the definitive proof was finally provided on Thursday afternoon. Scientists had previously seen stars orbiting around something invisible, compact and very massive at the centre of the Milky Way.  This object, known as Sagittarius A*, is indeed a black hole, and the image provides the first direct visual evidence of it. It is located 27,000 light years from Earth. Although one cannot see the black hole per se because it is completely dark, glowing gas around it reveals a tell-tale signature: a dark central region (called a shadow) surrounded by a bright ringlike structure. The new view captures light bent by the powerful gravity of the black hole, which is four million times more massive than our Sun. The announcement was made by the Event Horizon Telescope (EHT) collaboration, an international collaboration capturing images of black holes using a virtual Earth-sized telescope. This technique of linking eight radio telescope antennas across the globe to create an Earth-sized interferometer has been used before, when the EHT made history by publishing the first-ever image of a black hole in 2019. “This is it. It’s as close as it gets,” said Anton Zensus, the founding chair of the EHT Collaboration Board. Albert Einstein, he added, “would have been ecstatic”. Dr Sara Issaoun, from the Center for Astrophysics at Harvard University, explained: “Because the black hole is about 27,000 light years away from Earth, it appears to us to have about the same size in the sky as a doughnut on the Moon.” The collaboration of more than 300 scientists presented their latest results on Thursday afternoon, during a live-streaming event to the Wits Planetarium in Johannesburg, which was one of the main press conferences held simultaneously in Germany, the US, Mexico, Japan and Taiwan. Professor Roger Deane, director of the Wits Centre for Astrophysics, at the Wits Planetarium, explained that the first image of a black hole, called M87*, was captured at the centre of the Messier 87 galaxy. However, M87* is 1,000 times more massive than Sagittarius A* and 55 million light years away. Scientists are excited to finally have images of two black holes of very different sizes, which offers the opportunity to understand how they compare and contrast. They have also begun to use the new data to test theories and models of how gas behaves around supermassive black holes. This process is not yet fully understood, but is thought to play a key role in shaping the formation and evolution of galaxies. Think of the connection between the various telescopes as handshakes between them. The further apart they are, the sharper the images. Two key issues are important, Deane said: the light captured by the black hole and the light that bends around the black hole and appears like a ring around it. In the immediate vicinity of the black hole, gravity dominates its surrounding stars. Further away, the nearby stars and gas actually dominate the black hole. There is so much energy, it can influence the growth of the black hole, Deane said. “Southern Africa holds a distinct geographic advantage to host new EHT telescopes, especially if we wish to make movies of the Milky Way’s supermassive black hole, which passes directly above us in the southern sky,” Deane said. There is a possibility of a low-cost antenna in southern Africa which can be part of the EHT collaboration, he added. This planning is in the early stages. “Black hole imaging is just starting,” said Deane. DM  /*!
+* CleanSlate
+*   github.com/premasagar/cleanslate
+*
+*//*
+    An extreme CSS reset stylesheet, for normalising the styling of a container element and its children.
+
+    by Premasagar Rose
+        dharmafly.com
+
+    license
+        opensource.org/licenses/mit-license.php
+
+    **
+
+    v0.10.1
+
+*/
+
+/* == BLANKET RESET RULES == */
+
+/* HTML 4.01 */
+.cleanslate h1, .cleanslate h2, .cleanslate h3, .cleanslate h4, .cleanslate h5, .cleanslate h6, .cleanslate p, .cleanslate td, .cleanslate dl, .cleanslate tr, .cleanslate dt, .cleanslate ol, .cleanslate form, .cleanslate select, .cleanslate option, .cleanslate pre, .cleanslate div, .cleanslate table,  .cleanslate th, .cleanslate tbody, .cleanslate tfoot, .cleanslate caption, .cleanslate thead, .cleanslate ul, .cleanslate li, .cleanslate address, .cleanslate blockquote, .cleanslate dd, .cleanslate fieldset, .cleanslate li, .cleanslate NO-iframe, .cleanslate strong, .cleanslate legend, .cleanslate em, .cleanslate summary, .cleanslate cite, .cleanslate span, .cleanslate input, .cleanslate sup, .cleanslate label, .cleanslate dfn, .cleanslate object, .cleanslate big, .cleanslate q, .cleanslate samp, .cleanslate acronym, .cleanslate small, .cleanslate img, .cleanslate strike, .cleanslate code, .cleanslate sub, .cleanslate ins, .cleanslate textarea, .cleanslate button, .cleanslate var, .cleanslate a, .cleanslate abbr, .cleanslate applet, .cleanslate del, .cleanslate kbd, .cleanslate tt, .cleanslate b, .cleanslate i, .cleanslate hr,
+
+/* HTML5 - Sept 2013 taken from MDN https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list */
+.cleanslate article, .cleanslate aside, .cleanslate figure, .cleanslate figcaption, .cleanslate footer, .cleanslate header, .cleanslate menu, .cleanslate nav, .cleanslate section, .cleanslate time, .cleanslate mark, .cleanslate audio, .cleanslate video, .cleanslate abbr, .cleanslate address, .cleanslate area, .cleanslate blockquote, .cleanslate canvas, .cleanslate caption, .cleanslate cite, .cleanslate code, .cleanslate colgroup, .cleanslate col, .cleanslate datalist, .cleanslate fieldset, .cleanslate main, .cleanslate map, .cleanslate meta, .cleanslate optgroup, .cleanslate output, .cleanslate progress {
+    background-attachment:scroll !important;
+    background-color:transparent !important;
+    background-image:none !important; /* This rule affects the use of pngfix JavaScript http://dillerdesign.com/experiment/DD_BelatedPNG for IE6, which is used to force the browser to recognise alpha-transparent PNGs files that replace the IE6 lack of PNG transparency. (The rule overrides the VML image that is used to replace the given CSS background-image). If you don't know what that means, then you probably haven't used the pngfix script, and this comment may be ignored :) */
+    background-position:0 0 !important;
+    background-repeat:repeat !important;
+    border-color:black !important;
+    border-color:currentColor !important; /* `border-color` should match font color. Modern browsers (incl. IE9) allow the use of "currentColor" to match the current font 'color' value <http://www.w3.org/TR/css3-color/#currentcolor>. For older browsers, a default of 'black' is given before this rule. Guideline to support older browsers: if you haven't already declared a border-color for an element, be sure to do so, e.g. when you first declare the border-width. */
+    border-radius:0 !important;
+    border-style:none !important;
+    border-width:medium !important;
+    bottom:auto !important;
+    clear:none !important;
+    clip:auto !important;
+    color:inherit !important;
+    counter-increment:none !important;
+    counter-reset:none !important;
+    cursor:auto !important;
+    direction:inherit !important;
+    display:inline !important;
+    float:none !important;
+    font-family: inherit !important; /* As with other inherit values, this needs to be set on the root container element */
+    font-size: inherit !important;
+    font-style:inherit !important;
+    font-variant:normal !important;
+    font-weight:normal !important;
+    height:auto !important;
+    left:auto !important;
+    letter-spacing:normal !important;
+    line-height:inherit !important;
+    list-style-type: inherit !important; /* Could set list-style-type to none */
+    list-style-position: outside !important;
+    list-style-image: none !important;
+    margin:0 !important;
+    max-height:none !important;
+    max-width:none !important;
+    min-height:0 !important;
+    min-width:0 !important;
+    opacity:1;
+    outline:invert none medium !important;
+    overflow:visible !important;
+    padding:0 !important;
+    position:static !important;
+    quotes: "" "" !important;
+    right:auto !important;
+    table-layout:auto !important;
+    text-align:inherit !important;
+    text-decoration:inherit !important;
+    text-indent:0 !important;
+    text-transform:none !important;
+    top:auto !important;
+    unicode-bidi:normal !important;
+    vertical-align:baseline !important;
+    visibility:inherit !important;
+    white-space:normal !important;
+    width:auto !important;
+    word-spacing:normal !important;
+    z-index:auto !important;
+
+    /* CSS3 */
+    /* Including all prefixes according to http://caniuse.com/ */
+    /* CSS Animations don't cascade, so don't require resetting */
+    -webkit-background-origin: padding-box !important;
+            background-origin: padding-box !important;
+    -webkit-background-clip: border-box !important;
+            background-clip: border-box !important;
+    -webkit-background-size: auto !important;
+       -moz-background-size: auto !important;
+            background-size: auto !important;
+    -webkit-border-image: none !important;
+       -moz-border-image: none !important;
+         -o-border-image: none !important;
+            border-image: none !important;
+    -webkit-border-radius:0 !important;
+       -moz-border-radius:0 !important;
+            border-radius: 0 !important;
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+    -webkit-box-sizing: content-box !important;
+       -moz-box-sizing: content-box !important;
+            box-sizing: content-box !important;
+    -webkit-column-count: auto !important;
+       -moz-column-count: auto !important;
+            column-count: auto !important;
+    -webkit-column-gap: normal !important;
+       -moz-column-gap: normal !important;
+            column-gap: normal !important;
+    -webkit-column-rule: medium none black !important;
+       -moz-column-rule: medium none black !important;
+            column-rule: medium none black !important;
+    -webkit-column-span: 1 !important;
+       -moz-column-span: 1 !important; /* doesn't exist yet but probably will */
+            column-span: 1 !important;
+    -webkit-column-width: auto !important;
+       -moz-column-width: auto !important;
+            column-width: auto !important;
+    font-feature-settings: normal !important;
+    overflow-x: visible !important;
+    overflow-y: visible !important;
+    -webkit-hyphens: manual !important;
+       -moz-hyphens: manual !important;
+            hyphens: manual !important;
+    -webkit-perspective: none !important;
+       -moz-perspective: none !important;
+        -ms-perspective: none !important;
+         -o-perspective: none !important;
+            perspective: none !important;
+    -webkit-perspective-origin: 50% 50% !important;
+       -moz-perspective-origin: 50% 50% !important;
+        -ms-perspective-origin: 50% 50% !important;
+         -o-perspective-origin: 50% 50% !important;
+            perspective-origin: 50% 50% !important;
+    -webkit-backface-visibility: visible !important;
+       -moz-backface-visibility: visible !important;
+        -ms-backface-visibility: visible !important;
+         -o-backface-visibility: visible !important;
+            backface-visibility: visible !important;
+    text-shadow: none !important;
+    -webkit-transition: all 0s ease 0s !important;
+            transition: all 0s ease 0s !important;
+    -webkit-transform: none !important;
+       -moz-transform: none !important;
+        -ms-transform: none !important;
+         -o-transform: none !important;
+            transform: none !important;
+    -webkit-transform-origin: 50% 50% !important;
+       -moz-transform-origin: 50% 50% !important;
+        -ms-transform-origin: 50% 50% !important;
+         -o-transform-origin: 50% 50% !important;
+            transform-origin: 50% 50% !important;
+    -webkit-transform-style: flat !important;
+       -moz-transform-style: flat !important;
+        -ms-transform-style: flat !important;
+         -o-transform-style: flat !important;
+            transform-style: flat !important;
+    word-break: normal !important;
+}
+
+/* == BLOCK-LEVEL == */
+/* Actually, some of these should be inline-block and other values, but block works fine (TODO: rigorously verify this) */
+/* HTML 4.01 */
+.cleanslate, .cleanslate h3, .cleanslate h5, .cleanslate p, .cleanslate h1, .cleanslate dl, .cleanslate dt, .cleanslate h6, .cleanslate ol, .cleanslate form, .cleanslate option, .cleanslate pre, .cleanslate div, .cleanslate h2, .cleanslate caption, .cleanslate h4, .cleanslate ul, .cleanslate address, .cleanslate blockquote, .cleanslate dd, .cleanslate fieldset, .cleanslate hr,
+
+/* HTML5 new elements */
+.cleanslate article, .cleanslate dialog, .cleanslate figure, .cleanslate footer, .cleanslate header, .cleanslate hgroup, .cleanslate menu, .cleanslate nav, .cleanslate section, .cleanslate audio, .cleanslate video, .cleanslate address, .cleanslate blockquote, .cleanslate colgroup, .cleanslate main, .cleanslate progress, .cleanslate summary {
+    display:block !important;
+}
+.cleanslate h1, .cleanslate h2, .cleanslate h3, .cleanslate h4, .cleanslate h5, .cleanslate h6 {
+    font-weight: bold !important;
+}
+.cleanslate h1 {
+    font-size: 2em !important;
+    padding: .67em 0 !important;
+}
+.cleanslate h2 {
+    font-size: 1.5em !important;
+    padding: .83em 0 !important;
+}
+.cleanslate h3 {
+    font-size: 1.17em !important;
+    padding: .83em 0 !important;
+}
+.cleanslate h4 {
+    font-size: 1em !important;
+}
+.cleanslate h5 {
+    font-size: .83em !important;
+}
+.cleanslate p {
+    margin: 0 !important;
+}
+.cleanslate p+p {
+    margin-top: 1em !important;
+}
+.cleanslate table {
+    display: table !important;
+}
+.cleanslate thead {
+    display: table-header-group !important;
+}
+.cleanslate tbody {
+    display: table-row-group !important;
+}
+.cleanslate tfoot {
+    display: table-footer-group !important;
+}
+.cleanslate tr {
+    display: table-row !important;
+}
+.cleanslate th, .cleanslate td {
+    display: table-cell !important;
+    padding: 2px !important;
+}
+
+/* == SPECIFIC ELEMENTS == */
+/* Some of these are browser defaults; some are just useful resets */
+.cleanslate ol, .cleanslate ul {
+    margin: 1em 0 !important;
+}
+.cleanslate ul li, .cleanslate ul ul li, .cleanslate ul ul ul li, .cleanslate ol li, .cleanslate ol ol li, .cleanslate ol ol ol li, .cleanslate ul ol ol li, .cleanslate ul ul ol li, .cleanslate ol ul ul li, .cleanslate ol ol ul li {
+    list-style-position: inside !important;
+    margin-top: .08em !important;
+}
+.cleanslate ol ol, .cleanslate ol ol ol, .cleanslate ul ul, .cleanslate ul ul ul, .cleanslate ol ul, .cleanslate ol ul ul, .cleanslate ol ol ul, .cleanslate ul ol, .cleanslate ul ol ol, .cleanslate ul ul ol {
+    padding-left: 40px !important;
+    margin: 0 !important;
+}
+/* helper for general navigation */
+.cleanslate nav ul, .cleanslate nav ol {
+    list-style-type:none !important;
+
+}
+.cleanslate ul, .cleanslate menu {
+    list-style-type:disc !important;
+}
+.cleanslate ol {
+    list-style-type:decimal !important;
+}
+.cleanslate ol ul, .cleanslate ul ul, .cleanslate menu ul, .cleanslate ol menu, .cleanslate ul menu, .cleanslate menu menu {
+    list-style-type:circle !important;
+}
+.cleanslate ol ol ul, .cleanslate ol ul ul, .cleanslate ol menu ul, .cleanslate ol ol menu, .cleanslate ol ul menu, .cleanslate ol menu menu, .cleanslate ul ol ul, .cleanslate ul ul ul, .cleanslate ul menu ul, .cleanslate ul ol menu, .cleanslate ul ul menu, .cleanslate ul menu menu, .cleanslate menu ol ul, .cleanslate menu ul ul, .cleanslate menu menu ul, .cleanslate menu ol menu, .cleanslate menu ul menu, .cleanslate menu menu menu {
+    list-style-type:square !important;
+}
+.cleanslate li {
+    display:list-item !important;
+    /* Fixes IE7 issue with positioning of nested bullets */
+    min-height:auto !important;
+    min-width:auto !important;
+    padding-left: 20px !important; /* replace -webkit-padding-start: 40px; */
+}
+.cleanslate strong {
+    font-weight:bold !important;
+}
+.cleanslate em {
+    font-style:italic !important;
+}
+.cleanslate kbd, .cleanslate samp, .cleanslate code, .cleanslate pre {
+  font-family:monospace !important;
+}
+.cleanslate a {
+    color: blue !important;
+    text-decoration: underline !important;
+}
+.cleanslate a:visited {
+    color: #529 !important;
+}
+.cleanslate a, .cleanslate a *, .cleanslate input[type=submit], .cleanslate input[type=button], .cleanslate input[type=radio], .cleanslate input[type=checkbox], .cleanslate select, .cleanslate button {
+    cursor:pointer !important;
+}
+.cleanslate button, .cleanslate input[type=submit] {
+    text-align: center !important;
+    padding: 2px 6px 3px !important;
+    border-radius: 4px !important;
+    text-decoration: none !important;
+    font-family: arial, helvetica, sans-serif !important;
+    font-size: small !important;
+    background: white !important;
+    -webkit-appearance: push-button !important;
+    color: buttontext !important;
+    border: 1px #a6a6a6 solid !important;
+    background: lightgrey !important; /* Old browsers */
+    background: rgb(255,255,255); /* Old browsers */
+}
+.cleanslate button:active, .cleanslate input[type=submit]:active, .cleanslate input[type=button]:active, .cleanslate button:active {
+background: rgb(59,103,158) !important; /* Old browsers */
+border-color: #5259b0 !important;
+}
+.cleanslate button {
+    padding: 1px 6px 2px 6px !important;
+    margin-right: 5px !important;
+}
+.cleanslate input[type=hidden] {
+    display:none !important;
+}
+/* restore form defaults */
+.cleanslate textarea {
+    -webkit-appearance: textarea !important;
+    background: white !important;
+    padding: 0 !important;
+    margin-left: 0 !important;
+    word-wrap: break-word !important;
+    white-space: pre-wrap !important;
+    font-size: 11px !important;
+    font-family: arial, helvetica, sans-serif !important;
+    line-height: 13px !important;
+    resize: both !important;
+}
+.cleanslate select, .cleanslate textarea, .cleanslate input {
+    border:1px solid #ccc !important;
+}
+.cleanslate select {
+    font-size: 11px !important;
+    font-family: helvetica, arial, sans-serif !important;
+    display: inline-block;
+}
+.cleanslate textarea:focus, .cleanslate input:focus {
+    outline: auto 5px -webkit-focus-ring-color !important;
+}
+
+.cleanslate textarea::placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea::-webkit-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea::-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea:-ms-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea:-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate input::placeholder { color: #a9a9a9 !important; }
+.cleanslate input::-webkit-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate input::-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate input:-ms-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate input:-moz-placeholder { color: #a9a9a9 !important; }
+
+.cleanslate input[type=text] {
+    background: white !important;
+    padding: 1px !important;
+    font-family: initial !important;
+    font-size: small !important;
+}
+.cleanslate input[type=checkbox], .cleanslate input[type=radio] {
+    border: 1px #2b2b2b solid !important;
+    border-radius: 4px !important;
+}
+.cleanslate input[type=checkbox] {
+    -webkit-appearance: checkbox !important;
+    -moz-appearance: checkbox !important;
+    appearance: checkbox !important;
+}
+.cleanslate input[type=radio] {
+    margin: 2px 2px 3px 2px !important;
+}
+.cleanslate abbr[title], .cleanslate acronym[title], .cleanslate dfn[title] {
+    cursor:help !important;
+    border-bottom-width:1px !important;
+    border-bottom-style:dotted !important;
+}
+.cleanslate ins {
+    background-color:#ff9 !important;
+    color:black !important;
+}
+.cleanslate del {
+    text-decoration: line-through !important;
+}
+.cleanslate blockquote, .cleanslate q  {
+    quotes:none !important; /* HTML5 */
+}
+.cleanslate blockquote:before, .cleanslate blockquote:after, .cleanslate q:before, .cleanslate q:after, .cleanslate li:before, .cleanslate li:after  {
+    content:"" !important;
+}
+.cleanslate input, .cleanslate select {
+    vertical-align:middle !important;
+}
+
+.cleanslate table {
+    border-collapse:collapse !important;
+    border-spacing:0 !important;
+}
+.cleanslate hr {
+    display:block !important;
+    height:1px !important;
+    border:0 !important;
+    border-top:1px solid #ccc !important;
+    margin:1em 0 !important;
+}
+.cleanslate *[dir=rtl] {
+    direction: rtl !important;
+}
+.cleanslate mark {
+    background-color:#ff9 !important;
+    color:black !important;
+    font-style:italic !important;
+    font-weight:bold !important;
+}
+.cleanslate menu {
+    padding-left: 40px !important;
+    padding-top: 8px !important;
+}
+
+/* additional helpers */
+.cleanslate [hidden],
+.cleanslate template {
+    display: none !important;
+}
+.cleanslate abbr[title] {
+    border-bottom: 1px dotted !important;
+}
+.cleanslate sub, .cleanslate sup {
+    font-size: 75% !important;
+    line-height: 0 !important;
+    position: relative !important;
+    vertical-align: baseline !important;
+}
+.cleanslate sup {
+    top: -0.5em !important;
+}
+.cleanslate sub {
+    bottom: -0.25em !important;
+}
+.cleanslate img {
+    border: 0 !important;
+}
+.cleanslate figure {
+    margin: 0 !important;
+}
+.cleanslate textarea {
+    overflow: auto !important;
+    vertical-align: top !important;
+}
+
+/* == ROOT CONTAINER ELEMENT == */
+/* This contains default values for child elements to inherit  */
+.cleanslate {
+    font-size: medium !important;
+    line-height: 1 !important;
+    direction: inherit !important;
+    text-align: left !important; /* for IE, Opera */
+    text-align: start !important; /* recommended W3C Spec */
+    font-family: "Times New Roman", Times, serif !important; /* Override this with whatever font-family is required */
+    color: black !important;
+    font-style:normal !important;
+    font-weight:normal !important;
+    text-decoration:none !important;
+    list-style-type:disc !important;
+}
+
+.cleanslate pre {
+    white-space:pre !important;
+}
+
+    .cleanslate .share-buttons {
+      text-align: center !important;
+    }
+    .cleanslate .fb-share-button.fb_iframe_widget
+    {
+      display: inline-block !important;
+      vertical-align: top !important;
+      width: 76px !important;
+    }
+    .cleanslate .fb-share-button.fb_iframe_widget iframe {
+      margin-left: -40px;
+    }
+
+    
+    .hearken-app .cleanslate .share-buttons {
+      width: 100% !important;
+      height: 27px !important;
+      background-size: auto 100% !important;
+      background-position: center !important;
+      background-image: url("/img/social_button_placeholders.png") !important;
+      background-repeat: no-repeat !important;
+    }
+    .hearken-app .cleanslate .share-buttons:hover {
+      cursor: not-allowed !important;
+    }
+    .grecaptcha-badge { visibility: hidden; }#multiselectInputauto_assign_to {
+    padding:8px 0px 0px;
+    margin:0px;
+}
+
+#hearken-embed-module-9472-13e8e  a {
+    color:#003CFF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .header--text {
+    background-color:#3B94FF !important;
+    color:#ffffff !important;
+    text-align:center !important;
+    padding:16px 16px !important;
+    font-weight:800 !important;
+    font-size:15px !important;
+    line-height:18px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .header--image__image {
+    display:block !important;
+    width:100% !important;
+    background-color:#3B94FF !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .embed-content-container {
+    background-color:#efefef !important;
+    padding:15px 15px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .section-header-group {
+    background-color:#efefef !important;
+    padding:0px 0px 15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .section-header-group__section-header {
+    background-color:#efefef !important;
+    color:#425568 !important;
+    padding:0px 0px 0px !important;
+    font-weight:800 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .section-header-group__section-subheader {
+    background-color:#efefef !important;
+    color:#425568 !important;
+    padding:5px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input--error+.text-input--error {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input+.text-input--error {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input--error+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .input-threeup-leading>.text-input {
+    padding-right:7px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .input-threeup-following>.text-input {
+    padding-left:7px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .input-threeup-leading {
+    margin-top:8px !important;
+    width:33.3% !important;
+    display:inline-block !important;
+}
+
+#hearken-embed-module-9472-13e8e  .input-threeup-following {
+    margin-top:8px !important;
+    width:33.3% !important;
+    display:inline-block !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input__input {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #694E5F !important;
+    display:block !important;
+    width:100% !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input__input::placeholder {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9472-13e8e   .text-input--error::placeholder {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9472-13e8e   .text-input--long::placeholder {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9472-13e8e   .text-input--long--error::placeholder {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9472-13e8e    {
+    color:#666 !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input__input:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input--error__input:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input__label {
+    color:#425568 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input--error__input {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #DD0000 !important;
+    display:block !important;
+    width:100% !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input--error__label {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .long-text-input-container {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    margin-bottom:15px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input--long {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #694E5F !important;
+    display:block !important;
+    resize:none !important;
+    width:100% !important;
+    height:100px !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input--long:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input--long--error {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #DD0000 !important;
+    display:block !important;
+    resize:none !important;
+    width:100% !important;
+    height:100px !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .input-error-message {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .validation-error {
+    background-color:#DD0000 !important;
+    color:#FFFFFF !important;
+    padding:10px 15px !important;
+    margin-bottom:15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .character-counter {
+    color:#694E5F !important;
+    margin-top:3px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .button {
+    background:#FFC90E !important;
+    color:#000000 !important;
+    border:0 !important;
+    border-radius:0 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .button:hover {
+    background:#FFC90E !important;
+    color:#000000 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    cursor:pointer !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .button--inactive {
+    background:#DDDDDD !important;
+    border:0 !important;
+    border-radius:0 !important;
+    color:#000000 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .button-container {
+    width:100% !important;
+    text-align:center !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question-list {
+    background-color:#efefef !important;
+    padding:0px 0px !important;
+    max-height:500px !important;
+    overflow:auto !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question+.question {
+    margin-top:1px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question {
+    background-color:#ffffff !important;
+    padding:12px 15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question__question-text {
+    color:#425568 !important;
+    cursor:inherit !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question__question-asker {
+    color:#694E5F !important;
+    margin-top:5px !important;
+    cursor:inherit !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question--voteable {
+    margin-top:5px !important;
+    -webkit-appearance:none !important;
+    margin-right:0 !important;
+    background:#FFFFFF !important;
+    padding:8px 8px !important;
+    text-align:left !important;
+    border:0 !important;
+    border-radius:0 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question--selected {
+    margin-top:5px !important;
+    -webkit-appearance:none !important;
+    margin-right:0 !important;
+    background:#3B94FF !important;
+    padding:8px 8px !important;
+    text-align:left !important;
+    border:0 !important;
+    border-radius:0 !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question--voteable:hover {
+    background:#3B94FF !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e   .question-list--selected .question--selected {
+    background:#3B94FF !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .votable-question-details {
+    cursor:inherit !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+    padding:0px 10px !important;
+    width:549px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .selected-question-details {
+    cursor:inherit !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+    color:#FFFFFF !important;
+    padding:0px 10px !important;
+    width:549px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .vote-icon {
+    color:#425568 !important;
+    cursor:inherit !important;
+    width:44px !important;
+    height:44px !important;
+    overflow:hidden !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+}
+
+#hearken-embed-module-9472-13e8e  .vote-icon__circle {
+    fill:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question--voteable:hover .question__question-text {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question--selected .question__question-text {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question--voteable:hover .question__question-asker {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question--selected .question__question-asker {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question--voteable:hover .vote-icon__circle {
+    fill:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-13e8e   .question-list--selected .question--selected .vote-icon__circle {
+    fill:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .question--voteable:hover .vote-icon__checkmark {
+    stroke:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-13e8e   .question-list--selected .question--selected .vote-icon__checkmark {
+    stroke:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .checkbox {
+    color:#425568 !important;
+    margin:10px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .checkbox__text {
+    margin:0px 5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .checkbox__text div {
+    display:inline !important;
+}
+
+#hearken-embed-module-9472-13e8e  .checkbox__text p {
+    display:inline !important;
+}
+
+#hearken-embed-module-9472-13e8e  .bar-graphs-container {
+    padding-bottom:10px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .bar-graph {
+    margin-top:5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .bar-graph__bar {
+    width:100% !important;
+    height:15px !important;
+    position:relative !important;
+    background-color:#C9C9C9 !important;
+    margin-bottom:2px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .bar-graph__bar-fill {
+    height:15px !important;
+    display:inline-block !important;
+    position:absolute !important;
+    top:0px !important;
+    background-color:#425568 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .legend__question-text {
+    width:80% !important;
+    display:inline-block !important;
+    color:#425568 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    white-space:nowrap !important;
+    overflow:hidden !important;
+    text-overflow:ellipsis !important;
+}
+
+#hearken-embed-module-9472-13e8e  .legend__question-percent {
+    width:20% !important;
+    display:inline-block !important;
+    color:#425568 !important;
+    text-align:end !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    white-space:nowrap !important;
+    overflow:hidden !important;
+    text-overflow:ellipsis !important;
+}
+
+#hearken-embed-module-9472-13e8e  .bar-graph__bar-fill.bar-graph__bar-fill--voted-for {
+    background-color:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .legend__question-text--voted-for {
+    color:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .legend__question-percent--voted-for {
+    color:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-13e8e  .social-buttons-container {
+    padding:10px 0px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .footer {
+    color:#425568 !important;
+    background-color:#efefef !important;
+    padding:15px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .footer--text {
+    color:#425568 !important;
+    background-color:#efefef !important;
+    padding:0px 15px 15px !important;
+    padding-left:15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .footer--image {
+    padding:0px 0px 15px !important;
+    background-color:#efefef !important;
+}
+
+#hearken-embed-module-9472-13e8e  .footer--image__image {
+    display:block !important;
+    width:100% !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .hearken-badge {
+    background-color:#efefef !important;
+    padding:12px 15px !important;
+    color:#694E5F !important;
+    text-align:end !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .recaptcha-badge {
+    background-color:inherit !important;
+    color:inherit !important;
+    text-align:start !important;
+    padding:5px 5px !important;
+    font-size:10px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:9.744px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .hearken-badge__link {
+    color:#694E5F !important;
+    text-decoration:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input {
+    border:1px solid #694E5F !important;
+    padding:11px 13px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input__label {
+    color:#425568 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input__error-label {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input+.select-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input:focus {
+    border-color:#52A3EC !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input:hover>.select-input__icon {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input__input {
+    appearance:none !important;
+    -webkit-appearance:none !important;
+    border:0 !important;
+    text-align:left !important;
+    width:100% !important;
+    outline:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input {
+    background-color:#FFFFFF !important;
+    position:relative !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input:focus-within {
+    background-color:#FFFFFF !important;
+    position:relative !important;
+    outline:auto 5px -webkit-focus-ring-color !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input__icon {
+    position:absolute !important;
+    top:12px !important;
+    right:10px !important;
+    width:15px !important;
+    height:15px !important;
+    pointer-events:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input:hover>.select-input__icon {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input--container+.select-input--container {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .select-input--container+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-13e8e  .text-input+.select-input--container {
+    margin-top:8px !important;
+}0/200Your contact infoWe'll be in touch if we look into your feedbackRate your experience of Home Affairs on a scale of 1 to 3 where 1 is Hell, 2 is OK and 3 is Awesome123Sign me up for Your Questions Answered newsletter!
+Please don't publish my name
+I am over 16 years old
+I accept the Terms of Service
+SubmitPowered by Hearken | Terms of Service | Privacy Policy Sign me up for Your Questions Answered newsletter! Please don't publish my name I am over 16 years old I accept the Terms of Service When the most massive stars die, they collapse to form some of the densest objects known in the Universe: black holes. They are the “darkest” objects in the cosmos, as not even light can escape their incredibly strong gravity. How are galaxies formed? – Harsh, aged 14, Kolkata, India Astronomers famously snapped the first ever direct image of a black hole in 2019, thanks to material glowing in its presence. But many black holes are actually near impossible to detect. Now another team using the Hubble Space Telescope seems to have finally found something nobody has seen before: a…
