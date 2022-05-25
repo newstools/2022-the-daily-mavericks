@@ -1,0 +1,1202 @@
+Citing a lack of planning, the consequences of ongoing political instability and the metro’s inadequate response to the water crisis, Prince Matonsi, the chief operations officer of the Nelson Mandela Bay Business Chamber, has called on all sectors in the community to form a united front and fight the potential disaster that will be Day Zero. On Tuesday, it was estimated that the metro’s supply dams had 22 days of water left, following more inflow into dams after rain over the weekend. But the latest figures from the Department of Water and Sanitation, released on Tuesday, showed that the rain in fact only kept the water levels somewhat constant. The Impofu Dam was 10.3% full after it was at 10.5% last week. The Kouga Dam remained constant at 12.8%. Businesses consume 35% of the metro’s water allocation, while residents consume 65%. “Businesses, in particular, have done a lot over the past few years and, in particular, the last few months to reduce their water consumption levels through the adoption of rainwater harvesting, recycling, water restrictors and other initiatives. Weekend rains weren’t enough to stave off Day Zero in Nelson Mandela Bay in just three weeks  “In fact, a number of industrial and commercial businesses in Nelson Mandela Bay have undertaken significant investments to reduce and conserve water. This on its own has not been enough and overall water consumption levels in the metro have not come down. Daily consumption levels of the metro as a whole have been tracking at 280 megalitres per day, but this needs to be reduced to 230 megalitres per day,” Matonsi said. “The only way to prevent taps from running dry is for the municipality to quickly reduce water losses under their control, and for all consumers (residents and businesses), regardless of whether they are located in the affected zones or not, to step up their water saving efforts. “All stakeholders need to unite around the goal of preventing more than a third of the metro from entering a water and sanitation crisis.” According to the metro’s latest statistics, there were 3,257 water leaks that needed to be fixed by the end of last week (17 May). The Crisis: Water Armageddon loading as Day Zero looms for Nelson Mandela Bay  Matonsi said that if more than a third of the metro did not have water, this could cause a humanitarian crisis for communities and the closure of businesses. “As organised business, we are extremely concerned about the potentially devastating impact which the water crisis may have on Nelson Mandela Bay’s economy and its communities. “This issue has been flagged for some time, but there has been an inadequate response due to the ongoing instability issues facing city council and the resultant impact of this on the municipality’s ability to deliver basic services. “The protracted delay in council passing the amended budget and unlocking the required funding to deal with water infrastructure issues is one example of how political instability is affecting the water crisis. “While we acknowledge that the lack of rain and resultant low dam levels have been one of the factors contributing to the water crisis, there are a number of other issues which have further exacerbated the situation. The recent Nooitgedacht Phase 3 project completion milestone is not the ‘silver bullet’ everyone thinks it is. This has a limited capacity in terms of what can be supplied to the metro and current consumption requirements exceed this. “Also, reticulating water from the Nooitgedacht scheme throughout the municipal areas is wholly reliant on pump station operations. However, the low dam levels have pushed operations to their limits, where standby pumps are in use as duty pumps. “Frequent pump station failures have been the norm since December 2021. Due to constraints at local dams, the metro has not been able to balance the system by increasing supply from available sources, as it has in the past. This has resulted in frequent mechanical and electrical breakdowns in the water supply. “Urgent refurbishment work is required at some of the critical pump stations, and procurement efforts must be intensified. It is critical that the dam capacity be stretched to the end of July, when the KwaNobuhle pump station will be able to pump Nooitgedacht water to KwaNobuhle and other areas served by western suburbs. “Vandalism of water pump station infrastructure has, over the past few months, resulted in frequent water outages across various parts of the metro. The People: Battle to save water last straw for Nelson Mandela Bay’s residents  “The municipality’s financials for the 2020/21 period indicate that non-revenue water losses in the metro amounted to 40%. This is a slight improvement from the prior year, where non-revenue water losses stood at 43%. Of the 40% of water losses, 29% were leaks, while the other 11% comprised commercial losses, which include unauthorised consumption of theft or illegal use, plus inaccuracies associated with customer metering. “The water losses require urgent attention from the municipality and there needs to be visibility around the actions being taken to rein this in. In particular, the municipality needs to reprioritise its activities to ensure that sufficient budget and resources are urgently allocated to undertake critical maintenance work and fix the [roughly] 3,000 water leaks around the metro. “Additionally, enforcement of municipal regulations and bylaws are required to prevent people from the unauthorised selling of municipal and borehole water, topping up swimming pools and bypassing their water meters. The vandalism of municipal infrastructure and, in particular, water substation infrastructure, needs to be addressed by the relevant authorities. “Longer-term, we need to recognise that we live in a water-scarce area and that this requires that consumers adopt permanent water preservation measures and that the municipality undertakes adequate planning and budgeting to ensure the maintenance of water and sanitation infrastructure takes place regularly.” Matonsi said the Business Chamber’s Adopt a School initiative had seen member businesses adopt 41 schools to address water leaks, install water tanks and drill boreholes as part of a concerted effort to more broadly address water losses in the metro. “We launched this initiative just over a year ago after it was identified that schools accounted for 10% of the total water lost to leaks in the metro.” One of the cornerstone businesses in the Nelson Mandela Bay economy, Volkswagen (VWSA), had introduced extensive wastewater recycling as part of its water conservation efforts. Volkswagen spokesperson Andile Dlamini confirmed that the company had been warned of the probability of prolonged water outages once the dams run dry. “Our factory has constructed a wastewater recycling facility which will recycle wastewater from various areas of the factory. The water will be treated to be reused in certain production processes.” He said the company had managed to reduce its water consumption by 19.4% since 2019, and if compared to 2010, by 63%. He said they were also set up to harvest rainwater in various areas of the factory. Dlamini said that at this stage they did not foresee that the water crisis will lead to job losses and their hope was that their mitigation measures would be sufficient to address possible water shortages when the dams run dry. The company is also a partner in the Adopt a School initiative and has installed 30 water tanks at 15 schools in KwaNobuhle and Despatch. With support from Old Mutual, VWSA has supplied and installed two 5,000-litre tanks for each of the schools, which were filled with water by the end of August last year. The company has helped with plumbing repairs and upgrades of the ablution facilities at the five schools – Ntlemeza Primary, James Ntungwana Primary, Vuba Primary, Noninzi Luzipho Primary and Mngcunube Primary – where its literacy centres are based. These repairs included fixing water leaks, replacing taps, basins and toilet seats, and deep cleaning. DM/MC  /*!
+* CleanSlate
+*   github.com/premasagar/cleanslate
+*
+*//*
+    An extreme CSS reset stylesheet, for normalising the styling of a container element and its children.
+
+    by Premasagar Rose
+        dharmafly.com
+
+    license
+        opensource.org/licenses/mit-license.php
+
+    **
+
+    v0.10.1
+
+*/
+
+/* == BLANKET RESET RULES == */
+
+/* HTML 4.01 */
+.cleanslate h1, .cleanslate h2, .cleanslate h3, .cleanslate h4, .cleanslate h5, .cleanslate h6, .cleanslate p, .cleanslate td, .cleanslate dl, .cleanslate tr, .cleanslate dt, .cleanslate ol, .cleanslate form, .cleanslate select, .cleanslate option, .cleanslate pre, .cleanslate div, .cleanslate table,  .cleanslate th, .cleanslate tbody, .cleanslate tfoot, .cleanslate caption, .cleanslate thead, .cleanslate ul, .cleanslate li, .cleanslate address, .cleanslate blockquote, .cleanslate dd, .cleanslate fieldset, .cleanslate li, .cleanslate NO-iframe, .cleanslate strong, .cleanslate legend, .cleanslate em, .cleanslate summary, .cleanslate cite, .cleanslate span, .cleanslate input, .cleanslate sup, .cleanslate label, .cleanslate dfn, .cleanslate object, .cleanslate big, .cleanslate q, .cleanslate samp, .cleanslate acronym, .cleanslate small, .cleanslate img, .cleanslate strike, .cleanslate code, .cleanslate sub, .cleanslate ins, .cleanslate textarea, .cleanslate button, .cleanslate var, .cleanslate a, .cleanslate abbr, .cleanslate applet, .cleanslate del, .cleanslate kbd, .cleanslate tt, .cleanslate b, .cleanslate i, .cleanslate hr,
+
+/* HTML5 - Sept 2013 taken from MDN https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list */
+.cleanslate article, .cleanslate aside, .cleanslate figure, .cleanslate figcaption, .cleanslate footer, .cleanslate header, .cleanslate menu, .cleanslate nav, .cleanslate section, .cleanslate time, .cleanslate mark, .cleanslate audio, .cleanslate video, .cleanslate abbr, .cleanslate address, .cleanslate area, .cleanslate blockquote, .cleanslate canvas, .cleanslate caption, .cleanslate cite, .cleanslate code, .cleanslate colgroup, .cleanslate col, .cleanslate datalist, .cleanslate fieldset, .cleanslate main, .cleanslate map, .cleanslate meta, .cleanslate optgroup, .cleanslate output, .cleanslate progress {
+    background-attachment:scroll !important;
+    background-color:transparent !important;
+    background-image:none !important; /* This rule affects the use of pngfix JavaScript http://dillerdesign.com/experiment/DD_BelatedPNG for IE6, which is used to force the browser to recognise alpha-transparent PNGs files that replace the IE6 lack of PNG transparency. (The rule overrides the VML image that is used to replace the given CSS background-image). If you don't know what that means, then you probably haven't used the pngfix script, and this comment may be ignored :) */
+    background-position:0 0 !important;
+    background-repeat:repeat !important;
+    border-color:black !important;
+    border-color:currentColor !important; /* `border-color` should match font color. Modern browsers (incl. IE9) allow the use of "currentColor" to match the current font 'color' value <http://www.w3.org/TR/css3-color/#currentcolor>. For older browsers, a default of 'black' is given before this rule. Guideline to support older browsers: if you haven't already declared a border-color for an element, be sure to do so, e.g. when you first declare the border-width. */
+    border-radius:0 !important;
+    border-style:none !important;
+    border-width:medium !important;
+    bottom:auto !important;
+    clear:none !important;
+    clip:auto !important;
+    color:inherit !important;
+    counter-increment:none !important;
+    counter-reset:none !important;
+    cursor:auto !important;
+    direction:inherit !important;
+    display:inline !important;
+    float:none !important;
+    font-family: inherit !important; /* As with other inherit values, this needs to be set on the root container element */
+    font-size: inherit !important;
+    font-style:inherit !important;
+    font-variant:normal !important;
+    font-weight:normal !important;
+    height:auto !important;
+    left:auto !important;
+    letter-spacing:normal !important;
+    line-height:inherit !important;
+    list-style-type: inherit !important; /* Could set list-style-type to none */
+    list-style-position: outside !important;
+    list-style-image: none !important;
+    margin:0 !important;
+    max-height:none !important;
+    max-width:none !important;
+    min-height:0 !important;
+    min-width:0 !important;
+    opacity:1;
+    outline:invert none medium !important;
+    overflow:visible !important;
+    padding:0 !important;
+    position:static !important;
+    quotes: "" "" !important;
+    right:auto !important;
+    table-layout:auto !important;
+    text-align:inherit !important;
+    text-decoration:inherit !important;
+    text-indent:0 !important;
+    text-transform:none !important;
+    top:auto !important;
+    unicode-bidi:normal !important;
+    vertical-align:baseline !important;
+    visibility:inherit !important;
+    white-space:normal !important;
+    width:auto !important;
+    word-spacing:normal !important;
+    z-index:auto !important;
+
+    /* CSS3 */
+    /* Including all prefixes according to http://caniuse.com/ */
+    /* CSS Animations don't cascade, so don't require resetting */
+    -webkit-background-origin: padding-box !important;
+            background-origin: padding-box !important;
+    -webkit-background-clip: border-box !important;
+            background-clip: border-box !important;
+    -webkit-background-size: auto !important;
+       -moz-background-size: auto !important;
+            background-size: auto !important;
+    -webkit-border-image: none !important;
+       -moz-border-image: none !important;
+         -o-border-image: none !important;
+            border-image: none !important;
+    -webkit-border-radius:0 !important;
+       -moz-border-radius:0 !important;
+            border-radius: 0 !important;
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+    -webkit-box-sizing: content-box !important;
+       -moz-box-sizing: content-box !important;
+            box-sizing: content-box !important;
+    -webkit-column-count: auto !important;
+       -moz-column-count: auto !important;
+            column-count: auto !important;
+    -webkit-column-gap: normal !important;
+       -moz-column-gap: normal !important;
+            column-gap: normal !important;
+    -webkit-column-rule: medium none black !important;
+       -moz-column-rule: medium none black !important;
+            column-rule: medium none black !important;
+    -webkit-column-span: 1 !important;
+       -moz-column-span: 1 !important; /* doesn't exist yet but probably will */
+            column-span: 1 !important;
+    -webkit-column-width: auto !important;
+       -moz-column-width: auto !important;
+            column-width: auto !important;
+    font-feature-settings: normal !important;
+    overflow-x: visible !important;
+    overflow-y: visible !important;
+    -webkit-hyphens: manual !important;
+       -moz-hyphens: manual !important;
+            hyphens: manual !important;
+    -webkit-perspective: none !important;
+       -moz-perspective: none !important;
+        -ms-perspective: none !important;
+         -o-perspective: none !important;
+            perspective: none !important;
+    -webkit-perspective-origin: 50% 50% !important;
+       -moz-perspective-origin: 50% 50% !important;
+        -ms-perspective-origin: 50% 50% !important;
+         -o-perspective-origin: 50% 50% !important;
+            perspective-origin: 50% 50% !important;
+    -webkit-backface-visibility: visible !important;
+       -moz-backface-visibility: visible !important;
+        -ms-backface-visibility: visible !important;
+         -o-backface-visibility: visible !important;
+            backface-visibility: visible !important;
+    text-shadow: none !important;
+    -webkit-transition: all 0s ease 0s !important;
+            transition: all 0s ease 0s !important;
+    -webkit-transform: none !important;
+       -moz-transform: none !important;
+        -ms-transform: none !important;
+         -o-transform: none !important;
+            transform: none !important;
+    -webkit-transform-origin: 50% 50% !important;
+       -moz-transform-origin: 50% 50% !important;
+        -ms-transform-origin: 50% 50% !important;
+         -o-transform-origin: 50% 50% !important;
+            transform-origin: 50% 50% !important;
+    -webkit-transform-style: flat !important;
+       -moz-transform-style: flat !important;
+        -ms-transform-style: flat !important;
+         -o-transform-style: flat !important;
+            transform-style: flat !important;
+    word-break: normal !important;
+}
+
+/* == BLOCK-LEVEL == */
+/* Actually, some of these should be inline-block and other values, but block works fine (TODO: rigorously verify this) */
+/* HTML 4.01 */
+.cleanslate, .cleanslate h3, .cleanslate h5, .cleanslate p, .cleanslate h1, .cleanslate dl, .cleanslate dt, .cleanslate h6, .cleanslate ol, .cleanslate form, .cleanslate option, .cleanslate pre, .cleanslate div, .cleanslate h2, .cleanslate caption, .cleanslate h4, .cleanslate ul, .cleanslate address, .cleanslate blockquote, .cleanslate dd, .cleanslate fieldset, .cleanslate hr,
+
+/* HTML5 new elements */
+.cleanslate article, .cleanslate dialog, .cleanslate figure, .cleanslate footer, .cleanslate header, .cleanslate hgroup, .cleanslate menu, .cleanslate nav, .cleanslate section, .cleanslate audio, .cleanslate video, .cleanslate address, .cleanslate blockquote, .cleanslate colgroup, .cleanslate main, .cleanslate progress, .cleanslate summary {
+    display:block !important;
+}
+.cleanslate h1, .cleanslate h2, .cleanslate h3, .cleanslate h4, .cleanslate h5, .cleanslate h6 {
+    font-weight: bold !important;
+}
+.cleanslate h1 {
+    font-size: 2em !important;
+    padding: .67em 0 !important;
+}
+.cleanslate h2 {
+    font-size: 1.5em !important;
+    padding: .83em 0 !important;
+}
+.cleanslate h3 {
+    font-size: 1.17em !important;
+    padding: .83em 0 !important;
+}
+.cleanslate h4 {
+    font-size: 1em !important;
+}
+.cleanslate h5 {
+    font-size: .83em !important;
+}
+.cleanslate p {
+    margin: 0 !important;
+}
+.cleanslate p+p {
+    margin-top: 1em !important;
+}
+.cleanslate table {
+    display: table !important;
+}
+.cleanslate thead {
+    display: table-header-group !important;
+}
+.cleanslate tbody {
+    display: table-row-group !important;
+}
+.cleanslate tfoot {
+    display: table-footer-group !important;
+}
+.cleanslate tr {
+    display: table-row !important;
+}
+.cleanslate th, .cleanslate td {
+    display: table-cell !important;
+    padding: 2px !important;
+}
+
+/* == SPECIFIC ELEMENTS == */
+/* Some of these are browser defaults; some are just useful resets */
+.cleanslate ol, .cleanslate ul {
+    margin: 1em 0 !important;
+}
+.cleanslate ul li, .cleanslate ul ul li, .cleanslate ul ul ul li, .cleanslate ol li, .cleanslate ol ol li, .cleanslate ol ol ol li, .cleanslate ul ol ol li, .cleanslate ul ul ol li, .cleanslate ol ul ul li, .cleanslate ol ol ul li {
+    list-style-position: inside !important;
+    margin-top: .08em !important;
+}
+.cleanslate ol ol, .cleanslate ol ol ol, .cleanslate ul ul, .cleanslate ul ul ul, .cleanslate ol ul, .cleanslate ol ul ul, .cleanslate ol ol ul, .cleanslate ul ol, .cleanslate ul ol ol, .cleanslate ul ul ol {
+    padding-left: 40px !important;
+    margin: 0 !important;
+}
+/* helper for general navigation */
+.cleanslate nav ul, .cleanslate nav ol {
+    list-style-type:none !important;
+
+}
+.cleanslate ul, .cleanslate menu {
+    list-style-type:disc !important;
+}
+.cleanslate ol {
+    list-style-type:decimal !important;
+}
+.cleanslate ol ul, .cleanslate ul ul, .cleanslate menu ul, .cleanslate ol menu, .cleanslate ul menu, .cleanslate menu menu {
+    list-style-type:circle !important;
+}
+.cleanslate ol ol ul, .cleanslate ol ul ul, .cleanslate ol menu ul, .cleanslate ol ol menu, .cleanslate ol ul menu, .cleanslate ol menu menu, .cleanslate ul ol ul, .cleanslate ul ul ul, .cleanslate ul menu ul, .cleanslate ul ol menu, .cleanslate ul ul menu, .cleanslate ul menu menu, .cleanslate menu ol ul, .cleanslate menu ul ul, .cleanslate menu menu ul, .cleanslate menu ol menu, .cleanslate menu ul menu, .cleanslate menu menu menu {
+    list-style-type:square !important;
+}
+.cleanslate li {
+    display:list-item !important;
+    /* Fixes IE7 issue with positioning of nested bullets */
+    min-height:auto !important;
+    min-width:auto !important;
+    padding-left: 20px !important; /* replace -webkit-padding-start: 40px; */
+}
+.cleanslate strong {
+    font-weight:bold !important;
+}
+.cleanslate em {
+    font-style:italic !important;
+}
+.cleanslate kbd, .cleanslate samp, .cleanslate code, .cleanslate pre {
+  font-family:monospace !important;
+}
+.cleanslate a {
+    color: blue !important;
+    text-decoration: underline !important;
+}
+.cleanslate a:visited {
+    color: #529 !important;
+}
+.cleanslate a, .cleanslate a *, .cleanslate input[type=submit], .cleanslate input[type=button], .cleanslate input[type=radio], .cleanslate input[type=checkbox], .cleanslate select, .cleanslate button {
+    cursor:pointer !important;
+}
+.cleanslate button, .cleanslate input[type=submit] {
+    text-align: center !important;
+    padding: 2px 6px 3px !important;
+    border-radius: 4px !important;
+    text-decoration: none !important;
+    font-family: arial, helvetica, sans-serif !important;
+    font-size: small !important;
+    background: white !important;
+    -webkit-appearance: push-button !important;
+    color: buttontext !important;
+    border: 1px #a6a6a6 solid !important;
+    background: lightgrey !important; /* Old browsers */
+    background: rgb(255,255,255); /* Old browsers */
+}
+.cleanslate button:active, .cleanslate input[type=submit]:active, .cleanslate input[type=button]:active, .cleanslate button:active {
+background: rgb(59,103,158) !important; /* Old browsers */
+border-color: #5259b0 !important;
+}
+.cleanslate button {
+    padding: 1px 6px 2px 6px !important;
+    margin-right: 5px !important;
+}
+.cleanslate input[type=hidden] {
+    display:none !important;
+}
+/* restore form defaults */
+.cleanslate textarea {
+    -webkit-appearance: textarea !important;
+    background: white !important;
+    padding: 0 !important;
+    margin-left: 0 !important;
+    word-wrap: break-word !important;
+    white-space: pre-wrap !important;
+    font-size: 11px !important;
+    font-family: arial, helvetica, sans-serif !important;
+    line-height: 13px !important;
+    resize: both !important;
+}
+.cleanslate select, .cleanslate textarea, .cleanslate input {
+    border:1px solid #ccc !important;
+}
+.cleanslate select {
+    font-size: 11px !important;
+    font-family: helvetica, arial, sans-serif !important;
+    display: inline-block;
+}
+.cleanslate textarea:focus, .cleanslate input:focus {
+    outline: auto 5px -webkit-focus-ring-color !important;
+}
+
+.cleanslate textarea::placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea::-webkit-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea::-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea:-ms-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate textarea:-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate input::placeholder { color: #a9a9a9 !important; }
+.cleanslate input::-webkit-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate input::-moz-placeholder { color: #a9a9a9 !important; }
+.cleanslate input:-ms-input-placeholder { color: #a9a9a9 !important; }
+.cleanslate input:-moz-placeholder { color: #a9a9a9 !important; }
+
+.cleanslate input[type=text] {
+    background: white !important;
+    padding: 1px !important;
+    font-family: initial !important;
+    font-size: small !important;
+}
+.cleanslate input[type=checkbox], .cleanslate input[type=radio] {
+    border: 1px #2b2b2b solid !important;
+    border-radius: 4px !important;
+}
+.cleanslate input[type=checkbox] {
+    -webkit-appearance: checkbox !important;
+    -moz-appearance: checkbox !important;
+    appearance: checkbox !important;
+}
+.cleanslate input[type=radio] {
+    margin: 2px 2px 3px 2px !important;
+}
+.cleanslate abbr[title], .cleanslate acronym[title], .cleanslate dfn[title] {
+    cursor:help !important;
+    border-bottom-width:1px !important;
+    border-bottom-style:dotted !important;
+}
+.cleanslate ins {
+    background-color:#ff9 !important;
+    color:black !important;
+}
+.cleanslate del {
+    text-decoration: line-through !important;
+}
+.cleanslate blockquote, .cleanslate q  {
+    quotes:none !important; /* HTML5 */
+}
+.cleanslate blockquote:before, .cleanslate blockquote:after, .cleanslate q:before, .cleanslate q:after, .cleanslate li:before, .cleanslate li:after  {
+    content:"" !important;
+}
+.cleanslate input, .cleanslate select {
+    vertical-align:middle !important;
+}
+
+.cleanslate table {
+    border-collapse:collapse !important;
+    border-spacing:0 !important;
+}
+.cleanslate hr {
+    display:block !important;
+    height:1px !important;
+    border:0 !important;
+    border-top:1px solid #ccc !important;
+    margin:1em 0 !important;
+}
+.cleanslate *[dir=rtl] {
+    direction: rtl !important;
+}
+.cleanslate mark {
+    background-color:#ff9 !important;
+    color:black !important;
+    font-style:italic !important;
+    font-weight:bold !important;
+}
+.cleanslate menu {
+    padding-left: 40px !important;
+    padding-top: 8px !important;
+}
+
+/* additional helpers */
+.cleanslate [hidden],
+.cleanslate template {
+    display: none !important;
+}
+.cleanslate abbr[title] {
+    border-bottom: 1px dotted !important;
+}
+.cleanslate sub, .cleanslate sup {
+    font-size: 75% !important;
+    line-height: 0 !important;
+    position: relative !important;
+    vertical-align: baseline !important;
+}
+.cleanslate sup {
+    top: -0.5em !important;
+}
+.cleanslate sub {
+    bottom: -0.25em !important;
+}
+.cleanslate img {
+    border: 0 !important;
+}
+.cleanslate figure {
+    margin: 0 !important;
+}
+.cleanslate textarea {
+    overflow: auto !important;
+    vertical-align: top !important;
+}
+
+/* == ROOT CONTAINER ELEMENT == */
+/* This contains default values for child elements to inherit  */
+.cleanslate {
+    font-size: medium !important;
+    line-height: 1 !important;
+    direction: inherit !important;
+    text-align: left !important; /* for IE, Opera */
+    text-align: start !important; /* recommended W3C Spec */
+    font-family: "Times New Roman", Times, serif !important; /* Override this with whatever font-family is required */
+    color: black !important;
+    font-style:normal !important;
+    font-weight:normal !important;
+    text-decoration:none !important;
+    list-style-type:disc !important;
+}
+
+.cleanslate pre {
+    white-space:pre !important;
+}
+
+    .cleanslate .share-buttons {
+      text-align: center !important;
+    }
+    .cleanslate .fb-share-button.fb_iframe_widget
+    {
+      display: inline-block !important;
+      vertical-align: top !important;
+      width: 76px !important;
+    }
+    .cleanslate .fb-share-button.fb_iframe_widget iframe {
+      margin-left: -40px;
+    }
+
+    
+    .hearken-app .cleanslate .share-buttons {
+      width: 100% !important;
+      height: 27px !important;
+      background-size: auto 100% !important;
+      background-position: center !important;
+      background-image: url("/img/social_button_placeholders.png") !important;
+      background-repeat: no-repeat !important;
+    }
+    .hearken-app .cleanslate .share-buttons:hover {
+      cursor: not-allowed !important;
+    }
+    .grecaptcha-badge { visibility: hidden; }#multiselectInputauto_assign_to {
+    padding:8px 0px 0px;
+    margin:0px;
+}
+
+#hearken-embed-module-9472-1edcd  a {
+    color:#003CFF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .header--text {
+    background-color:#3B94FF !important;
+    color:#ffffff !important;
+    text-align:center !important;
+    padding:16px 16px !important;
+    font-weight:800 !important;
+    font-size:15px !important;
+    line-height:18px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .header--image__image {
+    display:block !important;
+    width:100% !important;
+    background-color:#3B94FF !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .embed-content-container {
+    background-color:#efefef !important;
+    padding:15px 15px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .section-header-group {
+    background-color:#efefef !important;
+    padding:0px 0px 15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .section-header-group__section-header {
+    background-color:#efefef !important;
+    color:#425568 !important;
+    padding:0px 0px 0px !important;
+    font-weight:800 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .section-header-group__section-subheader {
+    background-color:#efefef !important;
+    color:#425568 !important;
+    padding:5px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input--error+.text-input--error {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input+.text-input--error {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input--error+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .input-threeup-leading>.text-input {
+    padding-right:7px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .input-threeup-following>.text-input {
+    padding-left:7px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .input-threeup-leading {
+    margin-top:8px !important;
+    width:33.3% !important;
+    display:inline-block !important;
+}
+
+#hearken-embed-module-9472-1edcd  .input-threeup-following {
+    margin-top:8px !important;
+    width:33.3% !important;
+    display:inline-block !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input__input {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #694E5F !important;
+    display:block !important;
+    width:100% !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input__input::placeholder {
+    color:#555 !important;
+}
+
+#hearken-embed-module-9472-1edcd   .text-input--error::placeholder {
+    color:#555 !important;
+}
+
+#hearken-embed-module-9472-1edcd   .text-input--long::placeholder {
+    color:#555 !important;
+}
+
+#hearken-embed-module-9472-1edcd   .text-input--long--error::placeholder {
+    color:#555 !important;
+}
+
+#hearken-embed-module-9472-1edcd    {
+    color:#555 !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input__input:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input--error__input:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input__label {
+    color:#425568 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input--error__input {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #DD0000 !important;
+    display:block !important;
+    width:100% !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input--error__label {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .long-text-input-container {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    margin-bottom:15px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input--long {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #694E5F !important;
+    display:block !important;
+    resize:none !important;
+    width:100% !important;
+    height:100px !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input--long:focus {
+    border-color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input--long--error {
+    background-color:#FFFFFF !important;
+    color:#425568 !important;
+    border:1px solid #DD0000 !important;
+    display:block !important;
+    resize:none !important;
+    width:100% !important;
+    height:100px !important;
+    padding:11px 13px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .input-error-message {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .validation-error {
+    background-color:#DD0000 !important;
+    color:#FFFFFF !important;
+    padding:10px 15px !important;
+    margin-bottom:15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .character-counter {
+    color:#694E5F !important;
+    margin-top:3px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .button {
+    background:#FFC90E !important;
+    color:#000000 !important;
+    border:0 !important;
+    border-radius:0 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .button:hover {
+    background:#FFC90E !important;
+    color:#000000 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    cursor:pointer !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .button--inactive {
+    background:#DDDDDD !important;
+    border:0 !important;
+    border-radius:0 !important;
+    color:#000000 !important;
+    text-align:center !important;
+    padding:15px 15px !important;
+    margin-top:15px !important;
+    margin-bottom:0px !important;
+    font-weight:800 !important;
+    width:100% !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:15.819999999999999px !important;
+    line-height:18.983999999999998px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .button-container {
+    width:100% !important;
+    text-align:center !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question-list {
+    background-color:#efefef !important;
+    padding:0px 0px !important;
+    max-height:500px !important;
+    overflow:auto !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question+.question {
+    margin-top:1px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question {
+    background-color:#ffffff !important;
+    padding:12px 15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question__question-text {
+    color:#425568 !important;
+    cursor:inherit !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question__question-asker {
+    color:#694E5F !important;
+    margin-top:5px !important;
+    cursor:inherit !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question--voteable {
+    margin-top:5px !important;
+    -webkit-appearance:none !important;
+    margin-right:0 !important;
+    background:#FFFFFF !important;
+    padding:8px 8px !important;
+    text-align:left !important;
+    border:0 !important;
+    border-radius:0 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question--selected {
+    margin-top:5px !important;
+    -webkit-appearance:none !important;
+    margin-right:0 !important;
+    background:#3B94FF !important;
+    padding:8px 8px !important;
+    text-align:left !important;
+    border:0 !important;
+    border-radius:0 !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question--voteable:hover {
+    background:#3B94FF !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd   .question-list--selected .question--selected {
+    background:#3B94FF !important;
+    cursor:pointer !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .votable-question-details {
+    cursor:inherit !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+    padding:0px 10px !important;
+    width:549px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .selected-question-details {
+    cursor:inherit !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+    color:#FFFFFF !important;
+    padding:0px 10px !important;
+    width:549px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .vote-icon {
+    color:#425568 !important;
+    cursor:inherit !important;
+    width:44px !important;
+    height:44px !important;
+    overflow:hidden !important;
+    display:inline-block !important;
+    vertical-align:middle !important;
+}
+
+#hearken-embed-module-9472-1edcd  .vote-icon__circle {
+    fill:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question--voteable:hover .question__question-text {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question--selected .question__question-text {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question--voteable:hover .question__question-asker {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question--selected .question__question-asker {
+    color:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question--voteable:hover .vote-icon__circle {
+    fill:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1edcd   .question-list--selected .question--selected .vote-icon__circle {
+    fill:#FFFFFF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .question--voteable:hover .vote-icon__checkmark {
+    stroke:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1edcd   .question-list--selected .question--selected .vote-icon__checkmark {
+    stroke:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .checkbox {
+    color:#425568 !important;
+    margin:10px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .checkbox__text {
+    margin:0px 5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .checkbox__text div {
+    display:inline !important;
+}
+
+#hearken-embed-module-9472-1edcd  .checkbox__text p {
+    display:inline !important;
+}
+
+#hearken-embed-module-9472-1edcd  .bar-graphs-container {
+    padding-bottom:10px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .bar-graph {
+    margin-top:5px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .bar-graph__bar {
+    width:100% !important;
+    height:15px !important;
+    position:relative !important;
+    background-color:#C9C9C9 !important;
+    margin-bottom:2px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .bar-graph__bar-fill {
+    height:15px !important;
+    display:inline-block !important;
+    position:absolute !important;
+    top:0px !important;
+    background-color:#425568 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .legend__question-text {
+    width:80% !important;
+    display:inline-block !important;
+    color:#425568 !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .legend__question-percent {
+    width:20% !important;
+    display:inline-block !important;
+    color:#425568 !important;
+    text-align:end !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    white-space:nowrap !important;
+    overflow:hidden !important;
+    text-overflow:ellipsis !important;
+}
+
+#hearken-embed-module-9472-1edcd  .bar-graph__bar-fill.bar-graph__bar-fill--voted-for {
+    background-color:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .legend__question-text--voted-for {
+    color:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .legend__question-percent--voted-for {
+    color:#3B94FF !important;
+}
+
+#hearken-embed-module-9472-1edcd  .social-buttons-container {
+    padding:10px 0px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .footer {
+    color:#425568 !important;
+    background-color:#efefef !important;
+    padding:15px 0px 0px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .footer--text {
+    color:#425568 !important;
+    background-color:#efefef !important;
+    padding:0px 15px 15px !important;
+    padding-left:15px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .footer--image {
+    padding:0px 0px 15px !important;
+    background-color:#efefef !important;
+}
+
+#hearken-embed-module-9472-1edcd  .footer--image__image {
+    display:block !important;
+    width:100% !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .hearken-badge {
+    background-color:#efefef !important;
+    padding:12px 15px !important;
+    color:#694E5F !important;
+    text-align:end !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:12.18px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .recaptcha-badge {
+    background-color:inherit !important;
+    color:inherit !important;
+    text-align:start !important;
+    padding:5px 5px !important;
+    font-size:10px !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:9.744px !important;
+    line-height:15.834px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .hearken-badge__link {
+    color:#694E5F !important;
+    text-decoration:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input {
+    border:1px solid #694E5F !important;
+    padding:11px 13px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input__label {
+    color:#425568 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input__error-label {
+    color:#DD0000 !important;
+    margin-bottom:5px !important;
+    display:block !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input+.select-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input:focus {
+    border-color:#52A3EC !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input:hover>.select-input__icon {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input__input {
+    appearance:none !important;
+    -webkit-appearance:none !important;
+    border:0 !important;
+    text-align:left !important;
+    width:100% !important;
+    outline:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input {
+    background-color:#FFFFFF !important;
+    position:relative !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input:focus-within {
+    background-color:#FFFFFF !important;
+    position:relative !important;
+    outline:auto 5px -webkit-focus-ring-color !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input__icon {
+    position:absolute !important;
+    top:12px !important;
+    right:10px !important;
+    width:15px !important;
+    height:15px !important;
+    pointer-events:none !important;
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input:hover>.select-input__icon {
+    font-family:Arial !important;
+    box-sizing:border-box !important;
+    font-size:14px !important;
+    line-height:17.5px !important;
+    color:#52A3EC !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input--container+.select-input--container {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .select-input--container+.text-input {
+    margin-top:8px !important;
+}
+
+#hearken-embed-module-9472-1edcd  .text-input+.select-input--container {
+    margin-top:8px !important;
+}0/200Your contact infoWe'll be in touch if we look into your feedbackRate your experience of Home Affairs on a scale of 1 to 3 where 1 is Hell, 2 is OK and 3 is Awesome123Sign me up for Your Questions Answered newsletter!
+Please don't publish my name
+I am over 16 years old
+I accept the Terms of Service
+SubmitPowered by Hearken | Terms of Service | Privacy Policy Sign me up for Your Questions Answered newsletter! Please don't publish my name I am over 16 years old I accept the Terms of Service In less than a month, Nelson Mandela Bay will become the first South African metro to run out of water. In an appeal and warning that is almost unimaginable, the metro’s water chief has called for prayers as the disaster moves closer, confirming that water for drinking, washing, flushing toilets… Welcome rain fell in the catchment areas for Nelson Mandela Bay’s dams at the end of last week and over the weekend, but this did little to improve the metro’s critical water situation. The water supply is due to run out in the Nelson Mandela Bay metro, but no one has closed the tap on political bickering. The DA has released a plan-of-sorts which they believe will deal with the water crisis while, apart from pleading with residents to save water, the ANC-led…
